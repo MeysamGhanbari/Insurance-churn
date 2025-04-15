@@ -1,0 +1,1054 @@
+row,gender,Insurer,risk,with name?,state,coverage,duration,Compensation,Medical fee per incident,Medical fee in period,Franchise percentage,Minimum franchise,previous period,History of damage?,Bachelor's calculation?,Total premium?,Risk percentage,churn
+1,male,person,risky,no,Hormozgan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,2337406,0,no
+2,male,person,low risk,no,Hormozgan,annually,365,4560000000,20000000,60000000,0,0,yes,no,no,1728012,0,yes
+3,male,person,risky,no,Ilam,daily,60,4560000000,10000000,30000000,5,250000,no,no,no,1152220,0,no
+4,male,person,low risk,no,South Khorasan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,2330516,0,yes
+5,male,person,risky,yes,Razavi Khorasan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,6988686,20,no
+6,male,person,moderate risk,yes,Zanjan,daily,60,3040000000,30000000,60000000,5,300000,no,no,no,1721758,0,no
+7,male,person,low risk,no,Mazandaran,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,4164952,0,yes
+8,male,person,moderate risk,no,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,6080266,0,no
+9,male,person,risky,no,Tehran,short term,30,3040000000,25000000,50000000,5,250000,no,no,no,3410868,0,no
+10,male,company,moderate risk,no,Markazi,annually,365,4560000000,30000000,90000000,5,250000,yes,no,no,14772372,0,yes
+11,male,person,moderate risk,no,Razavi Khorasan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,2534566,0,no
+12,male,person,moderate risk,no,Hormozgan,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,6085672,0,yes
+13,male,person,risky,no,Hormozgan,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,6091502,0,no
+14,male,person,risky,no,Mazandaran,annually,365,3040000000,20000000,40000000,0,0,no,no,no,14802370,0,no
+15,male,person,low risk,no,Razavi Khorasan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,1284932,0,no
+16,male,person,low risk,no,Fars,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,1079292,0,no
+17,male,person,moderate risk,no,Tehran,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,10402734,0,yes
+18,female,company,low risk,no,Isfahan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,4797984,0,no
+19,male,person,moderate risk,yes,Isfahan,short term,364,3040000000,20000000,40000000,0,0,yes,no,no,13529310,0,no
+20,male,company,risky,no,Tehran,daily,108,3040000000,20000000,40000000,5,250000,yes,no,no,17885274,0,yes
+21,male,person,moderate risk,no,Qom,short term,90,3040000000,20000000,40000000,0,0,no,no,no,4183608,0,no
+22,male,person,risky,no,Qazvin,daily,181,3040000000,30000000,60000000,5,250000,no,no,no,4509240,0,no
+23,male,person,moderate risk,no,South Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,4172160,0,yes
+24,male,person,moderate risk,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+25,male,person,risky,no,Isfahan,annually,365,3040000000,10000000,20000000,5,500000,no,no,no,3625518,0,no
+26,male,person,low risk,no,Tehran,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,14592066,0,no
+27,male,person,risky,no,Semnan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,6635600,30,no
+28,male,person,risky,no,Qom,annually,365,4560000000,100000000,300000000,0,0,no,no,no,11913552,0,no
+29,male,person,risky,no,Qazvin,daily,90,4560000000,50000000,150000000,10,250000,no,no,no,6108886,0,no
+30,male,person,moderate risk,no,Tehran,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,3610466,0,no
+31,male,company,moderate risk,no,Khuzestan,daily,119,6080000000,30000000,120000000,5,250000,no,no,no,6807638,0,no
+32,male,company,moderate risk,no,Markazi,short term,212,3040000000,10000000,20000000,5,250000,yes,no,no,2785362,0,yes
+33,male,person,moderate risk,no,Razavi Khorasan,daily,109,3040000000,10000000,20000000,5,250000,yes,no,no,3586828,22,yes
+34,male,person,moderate risk,no,Ardabil,short term,363,3040000000,20000000,40000000,5,250000,no,no,no,3190176,0,no
+35,male,person,moderate risk,no,Tehran,short term,364,1520000000,30000000,30000000,5,250000,no,no,no,2152224,0,no
+36,male,person,risky,no,Razavi Khorasan,annually,365,1520000000,5000000,5000000,5,250000,yes,no,no,4806676,0,yes
+37,male,person,moderate risk,no,Ardabil,annually,365,7600000000,10000000,50000000,5,250000,yes,no,no,19751722,0,no
+38,male,person,risky,no,Isfahan,annually,365,6080000000,20000000,80000000,5,500000,yes,no,no,20081276,0,yes
+39,male,company,low risk,yes,Razavi Khorasan,annually,365,7600000000,10000000,50000000,5,250000,yes,no,no,68851876,12,yes
+40,female,company,low risk,no,Tehran,annually,365,6080000000,114000000,456000000,0,0,yes,no,yes,20181474,0,yes
+41,male,person,low risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,3248052,0,yes
+42,male,person,low risk,no,Isfahan,annually,365,3040000000,30000000,60000000,5,500000,no,no,no,4524186,0,no
+43,male,company,risky,no,Isfahan,annually,365,7600000000,15000000,75000000,5,500000,yes,no,no,33033204,0,yes
+44,male,company,risky,no,Isfahan,annually,365,3040000000,15000000,30000000,5,500000,yes,no,no,11946730,0,yes
+45,male,person,low risk,no,Ardabil,annually,365,7600000000,20000000,100000000,5,250000,yes,no,no,4309536,0,yes
+46,male,person,low risk,no,Hormozgan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,3788440,0,no
+47,male,person,risky,no,Hormozgan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,4016976,0,no
+48,male,person,low risk,no,Fars,short term,30,3040000000,30000000,60000000,5,250000,no,no,no,2009442,0,no
+49,female,company,moderate risk,no,Isfahan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,6219974,0,no
+50,male,person,risky,no,Tehran,annually,365,3040000000,50000000,100000000,0,0,yes,no,no,7317710,0,yes
+51,male,person,low risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,500000,yes,no,no,3220170,0,yes
+52,male,person,moderate risk,no,Tehran,short term,364,4560000000,50000000,150000000,0,0,no,no,yes,4452000,0,no
+53,male,person,risky,no,Khuzestan,daily,181,1520000000,40000000,40000000,5,250000,yes,no,no,3102832,0,yes
+54,male,person,moderate risk,no,Hormozgan,annually,365,7600000000,10000000,50000000,5,250000,no,no,no,3831900,0,no
+55,male,person,moderate risk,no,Razavi Khorasan,daily,90,3040000000,10000000,20000000,5,250000,no,no,no,2310376,15,no
+56,male,person,moderate risk,yes,Isfahan,annually,365,1520000000,20000000,20000000,5,500000,no,no,no,4328192,0,no
+57,male,person,moderate risk,no,Khuzestan,daily,30,1520000000,10000000,10000000,5,250000,no,no,no,1060000,0,no
+58,male,person,low risk,no,Semnan,annually,365,1520000000,25000000,50000000,5,250000,no,no,no,1913406,0,no
+59,female,person,risky,no,Isfahan,annually,365,6080000000,20000000,80000000,5,500000,no,no,no,1687414,0,no
+60,male,person,moderate risk,no,Ardabil,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,16258386,0,no
+61,male,person,low risk,no,Tehran,daily,90,4560000000,30000000,90000000,5,250000,no,no,no,1583640,0,no
+62,male,person,risky,no,Tehran,annually,365,3040000000,30000000,60000000,0,0,yes,no,no,5906638,0,yes
+63,male,person,moderate risk,no,Mazandaran,annually,365,3040000000,50000000,150000000,5,0,no,no,no,13686508,0,no
+64,male,company,risky,yes,Ardabil,annually,365,6080000000,20000000,80000000,5,250000,no,no,no,4116510,0,no
+65,male,person,moderate risk,no,Hormozgan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,3143006,0,no
+66,male,person,low risk,no,Semnan,annually,365,6080000000,40000000,160000000,5,250000,no,no,no,10871148,0,no
+67,male,person,moderate risk,no,Isfahan,short term,30,3040000000,20000000,40000000,5,500000,no,no,no,1352666,0,no
+68,male,person,risky,no,Kerman,annually,365,3040000000,25000000,50000000,10,250000,no,no,no,5240746,0,no
+69,male,person,moderate risk,no,Tehran,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,3606862,0,yes
+70,male,person,risky,yes,Khuzestan,daily,30,1520000000,20000000,40000000,5,250000,yes,yes,no,1093284,0,yes
+71,male,person,moderate risk,no,Chaharmahal and Bakhtiari,annually,365,3040000000,10000000,20000000,0,0,no,no,no,1622542,0,no
+72,male,person,moderate risk,no,West Azerbaijan,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,4424016,0,no
+73,female,person,low risk,no,Qom,annually,365,3040000000,30000000,60000000,5,500000,yes,no,no,2964714,0,yes
+74,male,company,moderate risk,no,Markazi,daily,119,3040000000,30000000,60000000,5,250000,no,no,no,4191028,0,no
+75,male,company,low risk,no,Hormozgan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,2789072,0,no
+76,male,person,low risk,no,Razavi Khorasan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,yes,2962382,0,yes
+77,male,company,moderate risk,no,Isfahan,annually,365,6080000000,10000000,40000000,5,250000,yes,no,no,2167594,0,yes
+78,male,person,low risk,no,South Khorasan,annually,365,3040000000,5000000,10000000,5,250000,no,no,no,1060000,0,no
+79,male,person,risky,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+80,male,company,moderate risk,yes,Razavi Khorasan,annually,365,7600000000,10000000,50000000,5,250000,yes,yes,no,32078462,71,yes
+81,female,person,risky,no,Semnan,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,5411300,0,no
+82,male,company,moderate risk,yes,Isfahan,annually,365,3040000000,50000000,100000000,5,500000,yes,no,no,26231184,0,no
+83,female,person,low risk,no,Semnan,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,5942572,0,no
+84,male,person,risky,no,Isfahan,short term,90,1520000000,20000000,20000000,5,500000,no,no,no,2728440,0,no
+85,male,person,moderate risk,no,Qom,annually,365,1520000000,10000000,10000000,0,0,yes,no,no,1480714,30,yes
+86,female,company,moderate risk,no,Ardabil,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,14217568,0,no
+87,male,person,risky,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+88,male,person,risky,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+89,male,person,risky,no,Isfahan,annually,365,4560000000,20000000,60000000,5,500000,yes,no,no,16284780,0,yes
+90,male,company,risky,no,Semnan,annually,365,3040000000,100000000,200000000,5,250000,no,no,no,11257094,0,no
+91,male,person,moderate risk,yes,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,4402816,0,yes
+92,male,company,moderate risk,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+93,male,company,moderate risk,no,Semnan,annually,365,3040000000,100000000,200000000,5,250000,no,no,no,12606368,0,no
+94,male,company,moderate risk,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+95,male,company,moderate risk,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+96,male,company,moderate risk,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+97,male,company,moderate risk,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+98,male,company,low risk,no,Qazvin,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,5093088,0,no
+99,male,person,moderate risk,yes,Khuzestan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,1725680,0,no
+100,male,person,moderate risk,yes,Khuzestan,daily,181,1520000000,20000000,20000000,5,250000,no,no,no,1060000,0,no
+101,male,person,moderate risk,no,Kordestan,annually,365,3040000000,20000000,40000000,10,250000,no,no,yes,2244391,0,no
+102,male,person,risky,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,yes,no,no,1060000,0,no
+103,male,person,risky,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,yes,no,no,1060000,0,no
+104,male,person,risky,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,yes,no,no,1060000,0,no
+105,male,person,risky,no,Razavi Khorasan,annually,365,1520000000,5000000,5000000,5,250000,yes,no,no,2914788,0,yes
+106,male,person,risky,no,Razavi Khorasan,annually,365,1520000000,5000000,5000000,5,250000,yes,no,no,4572204,0,yes
+107,male,company,moderate risk,no,Isfahan,short term,89,3040000000,20000000,40000000,5,250000,no,no,no,4562876,0,no
+108,male,company,moderate risk,no,Tehran,daily,31,4000000000,30000000,90000000,5,250000,yes,no,no,1080000,0,yes
+109,male,person,risky,no,Isfahan,annually,365,4560000000,20000000,60000000,5,500000,yes,no,no,19377966,0,yes
+110,female,person,moderate risk,no,Qom,short term,90,4560000000,30000000,150000000,0,0,no,no,no,2580464,30,no
+111,male,person,risky,no,Hormozgan,annually,365,1520000000,10000000,10000000,5,250000,no,no,yes,712500,0,no
+112,male,person,risky,no,Hormozgan,annually,365,1520000000,10000000,10000000,5,250000,no,no,yes,712500,0,no
+113,male,person,moderate risk,no,Isfahan,short term,30,1520000000,20000000,60000000,5,500000,no,no,no,2350656,0,no
+114,male,person,moderate risk,no,Kerman,annually,365,3040000000,5000000,10000000,5,250000,yes,no,no,2366450,0,yes
+115,male,person,low risk,no,Mazandaran,annually,365,3040000000,30000000,60000000,0,250000,yes,no,no,2557462,0,yes
+116,male,person,moderate risk,no,Mazandaran,annually,365,1520000000,10000000,10000000,0,250000,no,no,no,4180852,0,no
+117,male,person,moderate risk,no,Mazandaran,annually,365,3040000000,40000000,80000000,0,250000,yes,no,no,8134228,0,yes
+118,male,person,low risk,no,Kerman,annually,365,1520000000,2000000,2000000,5,250000,yes,no,no,1060000,0,yes
+119,male,person,risky,no,Lorestan,annually,365,3040000000,40000000,80000000,5,400000,yes,no,no,8104442,0,yes
+120,male,person,moderate risk,no,Markazi,daily,60,1520000000,20000000,20000000,5,250000,no,no,no,1305178,0,no
+121,male,person,risky,no,Isfahan,annually,365,3040000000,30000000,60000000,5,500000,yes,no,no,5204600,0,yes
+122,male,person,moderate risk,no,Hormozgan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,yes,9369999,0,yes
+123,male,person,risky,no,Isfahan,annually,365,7600000000,20000000,100000000,5,500000,no,no,no,34756128,0,no
+124,male,person,low risk,no,Isfahan,short term,30,1520000000,30000000,30000000,5,250000,no,no,no,2421252,0,no
+125,male,person,low risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,3777734,0,no
+126,female,person,risky,no,Sistan and Baluchestan,annually,365,12160000000,0,0,0,0,no,no,yes,6784000,0,no
+127,male,person,moderate risk,no,Semnan,annually,365,1520000000,10000000,10000000,5,250000,yes,no,no,2129116,0,yes
+128,male,person,moderate risk,no,Qazvin,daily,30,3040000000,10000000,20000000,5,250000,no,no,no,1060000,0,no
+129,female,company,low risk,no,East Azarbaijan,annually,365,3040000000,20000000,40000000,10,250000,no,no,no,5820672,0,no
+130,male,person,low risk,no,East Azarbaijan,annually,365,3040000000,20000000,40000000,10,250000,no,no,no,12066722,0,no
+131,male,person,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,500000,yes,no,no,3192508,0,yes
+132,male,company,moderate risk,no,Yazd,annually,365,1520000000,20000000,20000000,10,250000,no,no,no,2196956,0,no
+133,female,person,low risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,1327756,0,yes
+134,male,person,moderate risk,no,Isfahan,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,6011260,0,no
+135,male,person,low risk,no,Zanjan,short term,90,1520000000,20000000,20000000,5,300000,no,no,no,1060000,0,no
+136,male,person,moderate risk,no,Khuzestan,annually,365,3040000000,40000000,80000000,5,250000,no,no,no,6552072,0,no
+137,male,company,moderate risk,no,Khuzestan,daily,126,4560000000,20000000,120000000,5,250000,no,no,no,10549014,0,no
+138,male,company,moderate risk,no,Khuzestan,daily,63,3040000000,20000000,40000000,5,250000,no,no,no,2162294,0,no
+139,female,person,moderate risk,no,Mazandaran,annually,365,1520000000,10000000,10000000,0,250000,no,no,no,3405250,0,no
+140,male,company,risky,no,Qom,annually,365,3040000000,20000000,100000000,5,500000,yes,no,no,7051968,0,yes
+141,male,person,moderate risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,9707268,47,yes
+142,male,person,moderate risk,no,Qom,annually,365,3040000000,60000000,180000000,5,500000,yes,no,no,2208298,0,yes
+143,female,person,moderate risk,no,Hormozgan,short term,30,1520000000,10000000,10000000,5,250000,no,no,no,1060000,0,no
+144,male,company,moderate risk,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,27063920,0,no
+145,male,company,risky,no,Isfahan,short term,90,1520000000,40000000,40000000,5,250000,no,no,no,1897718,0,no
+146,male,person,risky,no,Kermanshah,daily,90,3040000000,10000000,20000000,0,0,no,no,no,1499370,0,no
+147,male,person,moderate risk,no,Isfahan,annually,365,1520000000,10000000,10000000,10,250000,no,no,no,1700770,0,no
+148,male,person,low risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,4820668,0,no
+149,male,person,moderate risk,yes,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,1397822,0,yes
+150,female,company,low risk,no,Markazi,daily,181,3040000000,20000000,40000000,10,250000,no,no,no,2597106,0,no
+151,male,company,risky,no,Isfahan,short term,90,1520000000,40000000,40000000,5,250000,no,no,no,1897718,0,no
+152,male,person,low risk,no,Kerman,annually,365,3040000000,25000000,50000000,5,250000,no,no,no,3181272,0,no
+153,male,company,low risk,no,East Azarbaijan,annually,365,1520000000,20000000,20000000,10,250000,no,no,no,3592446,0,no
+154,male,person,low risk,no,East Azarbaijan,annually,365,4560000000,10000000,30000000,10,250000,yes,no,no,4243922,0,yes
+155,male,person,low risk,no,Tehran,daily,364,1520000000,20000000,20000000,5,250000,yes,no,no,1060000,0,yes
+156,male,company,low risk,no,Fars,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,4741380,0,yes
+157,male,person,low risk,no,Isfahan,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,1959622,0,no
+158,female,person,moderate risk,no,Gilan,short term,90,1520000000,20000000,20000000,5,250000,yes,no,no,1279844,0,yes
+159,male,person,low risk,no,Qom,annually,365,1520000000,30000000,60000000,5,500000,no,no,no,1987818,0,no
+160,male,person,low risk,no,Kordestan,annually,365,3040000000,20000000,40000000,5,250000,no,no,yes,2680020,0,no
+161,male,person,moderate risk,no,Qom,annually,365,3040000000,20000000,60000000,5,500000,no,no,no,6330002,0,no
+162,male,person,low risk,no,Khuzestan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,2146924,0,yes
+163,male,person,risky,no,Isfahan,annually,365,6080000000,20000000,80000000,5,500000,yes,no,no,27080138,0,yes
+164,male,company,moderate risk,no,Tehran,annually,365,7600000000,20000000,100000000,5,250000,no,no,no,44928312,0,no
+165,male,person,moderate risk,no,Isfahan,annually,365,15200000000,22000000,220000000,5,250000,yes,no,no,82386380,0,no
+166,male,company,low risk,no,Razavi Khorasan,annually,365,6080000000,20000000,80000000,5,250000,no,no,no,44573000,10,no
+167,male,person,risky,no,Isfahan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,5667078,0,yes
+168,male,person,low risk,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,7284744,60,no
+169,male,person,moderate risk,no,Qom,daily,359,3040000000,60000000,180000000,5,250000,yes,no,no,2171940,0,yes
+170,male,person,risky,no,Isfahan,annually,365,3040000000,15000000,30000000,5,250000,yes,no,no,6509460,0,yes
+171,male,person,moderate risk,no,Fars,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+172,male,person,low risk,no,Mazandaran,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,1387010,0,no
+173,female,person,low risk,no,Kerman,annually,365,3040000000,150000000,300000000,5,250000,yes,no,no,5503096,0,yes
+174,male,person,moderate risk,no,Tehran,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,4097112,0,no
+175,male,company,risky,no,Khuzestan,daily,30,7600000000,30000000,150000000,5,250000,yes,no,no,1335070,0,yes
+176,male,person,low risk,no,Tehran,annually,365,4560000000,50000000,150000000,5,250000,no,no,no,2503508,0,no
+177,male,person,low risk,no,Ilam,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2002446,0,no
+178,male,company,low risk,no,Mazandaran,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2621486,0,no
+179,female,company,low risk,no,Hamedan,annually,365,3040000000,20000000,40000000,0,0,no,no,no,3112478,0,no
+180,male,company,moderate risk,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,29312286,0,no
+181,male,person,moderate risk,yes,Kerman,annually,365,1520000000,15000000,15000000,5,250000,no,no,no,1838040,0,no
+182,male,person,risky,no,Razavi Khorasan,annually,365,3040000000,5000000,10000000,5,250000,yes,no,no,6243188,0,yes
+183,male,person,risky,no,Isfahan,annually,365,3040000000,5000000,10000000,5,500000,no,no,no,8001410,0,no
+184,male,person,low risk,no,Isfahan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,1949234,0,no
+185,male,person,low risk,no,Fars,annually,365,1520000000,30000000,30000000,5,250000,yes,no,no,1060000,0,no
+186,male,person,moderate risk,no,Qom,annually,365,1520000000,20000000,40000000,10,1000000,no,no,no,4665590,0,no
+187,male,person,risky,no,Fars,annually,365,1520000000,30000000,30000000,5,250000,yes,no,no,1060000,0,no
+188,male,company,risky,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,10192642,0,no
+189,male,person,moderate risk,no,Isfahan,annually,365,3040000000,40000000,80000000,5,250000,no,no,no,1823624,0,no
+190,male,company,moderate risk,no,Fars,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,2231300,0,no
+191,male,company,moderate risk,no,Fars,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,2317054,0,no
+192,male,person,risky,no,Isfahan,annually,365,3040000000,20000000,40000000,0,0,no,no,no,7856932,0,no
+193,male,person,moderate risk,no,Fars,annually,365,3040000000,50000000,100000000,5,250000,no,no,yes,3500000,0,no
+194,male,person,moderate risk,no,Fars,annually,365,3040000000,50000000,100000000,5,250000,no,no,yes,6000000,0,no
+195,male,person,moderate risk,no,Lorestan,annually,365,4560000000,10000000,30000000,0,0,yes,no,no,2897298,0,no
+196,male,person,risky,no,Isfahan,daily,120,1520000000,20000000,20000000,5,250000,no,no,no,2392102,0,no
+197,male,person,moderate risk,no,Isfahan,annually,365,3040000000,50000000,100000000,0,0,no,no,no,2966410,0,no
+198,male,person,low risk,yes,Isfahan,annually,365,7600000000,15000000,75000000,5,250000,yes,no,no,2327124,0,yes
+199,male,company,moderate risk,no,Markazi,annually,365,3040000000,20000000,40000000,10,250000,no,no,no,14733576,0,no
+200,female,person,low risk,no,Tehran,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2601134,0,no
+201,female,company,low risk,no,Markazi,daily,120,4560000000,20000000,60000000,10,250000,no,no,no,12972280,0,no
+202,male,person,low risk,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,2408850,0,yes
+203,male,person,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,4486768,0,no
+204,male,person,risky,no,Isfahan,annually,365,1520000000,30000000,30000000,5,500000,no,no,no,3395710,0,no
+205,male,person,moderate risk,no,Isfahan,annually,365,3040000000,15000000,30000000,5,250000,yes,no,no,6509460,0,yes
+206,male,person,moderate risk,yes,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,5475960,0,no
+207,male,person,moderate risk,no,Tehran,annually,365,7600000000,30000000,150000000,5,250000,no,no,no,3183074,0,no
+208,male,company,moderate risk,yes,Khuzestan,daily,30,3040000000,30000000,60000000,5,250000,no,no,no,1060000,0,no
+209,male,person,risky,no,Chaharmahal and Bakhtiari,annually,365,3040000000,10000000,20000000,0,0,no,no,no,1694940,0,no
+210,male,person,risky,no,Hormozgan,annually,365,6080000000,20000000,80000000,5,250000,yes,no,no,8372198,0,yes
+211,male,person,risky,no,Hormozgan,annually,365,6080000000,20000000,80000000,5,250000,no,no,no,9630736,0,no
+212,male,person,risky,no,Hormozgan,annually,365,3040000000,40000000,80000000,5,250000,yes,no,no,6413954,0,yes
+213,female,company,low risk,yes,Razavi Khorasan,annually,365,6080000000,10000000,40000000,10,250000,no,no,no,42448866,0,no
+214,female,company,moderate risk,no,Kerman,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,9379728,0,no
+215,male,company,risky,yes,Semnan,annually,365,7600000000,50000000,250000000,5,250000,yes,no,no,16563136,0,no
+216,male,person,low risk,yes,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,1423580,0,no
+217,female,person,low risk,yes,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,1498522,0,no
+218,female,person,low risk,no,Alborz,annually,365,1520000000,20000000,20000000,25,1500000,no,no,no,7811034,0,no
+219,female,company,low risk,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,15988510,0,no
+220,male,person,low risk,no,Isfahan,short term,364,4560000000,30000000,90000000,5,250000,no,no,no,7561722,0,no
+221,male,person,moderate risk,yes,Markazi,annually,365,4560000000,30000000,90000000,10,250000,no,no,no,1494600,0,no
+222,male,person,moderate risk,no,Mazandaran,daily,182,1520000000,20000000,20000000,5,250000,no,no,no,1525870,0,no
+223,male,person,moderate risk,no,Kerman,annually,365,1520000000,5000000,5000000,5,250000,no,no,no,2485276,0,no
+224,male,person,moderate risk,no,Kerman,annually,365,7600000000,10000000,80000000,5,250000,yes,no,no,8507348,0,yes
+225,male,person,risky,no,Sistan and Baluchestan,annually,365,12160000000,0,0,0,0,no,no,yes,6784000,0,no
+226,male,person,low risk,no,Fars,annually,365,4560000000,40000000,120000000,5,250000,no,no,no,4991434,0,no
+227,male,company,moderate risk,yes,Golestan,annually,365,15200000000,10000000,100000000,5,300000,yes,no,no,18253200,0,no
+228,male,person,moderate risk,yes,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,3466094,0,no
+229,male,person,low risk,no,Markazi,annually,365,1520000000,20000000,20000000,10,250000,no,no,no,2126784,0,no
+230,male,company,moderate risk,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+231,male,person,moderate risk,no,Semnan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,2924328,0,no
+232,male,person,low risk,no,Isfahan,annually,365,4560000000,20000000,60000000,5,100000,no,no,no,8386614,0,no
+233,male,person,low risk,no,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,3475634,0,no
+234,male,person,moderate risk,no,Qazvin,daily,89,3040000000,30000000,60000000,5,250000,yes,no,no,2653074,0,no
+235,male,person,low risk,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,2408850,0,yes
+236,male,person,moderate risk,no,Razavi Khorasan,annually,365,1520000000,10000000,10000000,5,250000,yes,no,no,3525454,0,yes
+237,male,person,moderate risk,no,Fars,annually,365,1520000000,30000000,30000000,5,250000,no,no,yes,1940000,0,no
+238,male,company,risky,yes,Mazandaran,annually,365,1520000000,10000000,10000000,5,250000,yes,no,no,2100814,0,yes
+239,male,company,moderate risk,no,Tehran,daily,93,3040000000,30000000,60000000,5,250000,yes,no,no,1920781,0,yes
+240,male,company,risky,yes,Tehran,short term,305,7600000000,50000000,250000000,5,250000,no,no,no,9255814,0,no
+241,male,company,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,11564706,0,no
+242,male,person,moderate risk,no,Kerman,annually,365,1520000000,20000000,20000000,10,500000,yes,no,no,2727592,0,yes
+243,male,person,low risk,no,Chaharmahal and Bakhtiari,annually,365,3040000000,10000000,20000000,0,0,no,no,no,2874190,0,no
+244,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+245,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+246,male,person,moderate risk,no,Sistan and Baluchestan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,1260340,0,no
+247,male,person,risky,yes,Sistan and Baluchestan,short term,362,7600000000,10000000,50000000,5,250000,yes,no,no,5367310,0,yes
+248,male,person,moderate risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2842602,0,no
+249,male,person,moderate risk,no,West Azerbaijan,annually,365,6080000000,20000000,80000000,5,250000,yes,no,no,14157181,0,yes
+250,male,person,low risk,no,Kerman,annually,365,1520000000,5000000,5000000,5,250000,yes,no,no,1060000,0,yes
+251,male,person,moderate risk,no,Ardabil,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,5372928,0,yes
+252,male,person,moderate risk,no,Ardabil,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,1060000,0,yes
+253,male,person,moderate risk,no,Tehran,annually,365,3040000000,50000000,100000000,0,0,no,no,yes,2968000,0,no
+254,male,person,low risk,no,Isfahan,annually,365,7600000000,100000000,500000000,5,250000,no,no,no,5049946,0,no
+255,male,company,low risk,yes,Qazvin,daily,30,3040000000,50000000,100000000,5,250000,no,no,no,1060000,0,no
+256,male,person,low risk,no,Qom,annually,365,1520000000,50000000,100000000,5,250000,no,no,no,1068692,0,no
+257,male,person,moderate risk,yes,Tehran,annually,365,1520000000,20000000,20000000,0,0,no,no,no,1343974,0,no
+258,male,person,low risk,yes,Isfahan,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,1405454,0,no
+259,male,person,low risk,yes,Isfahan,short term,361,3040000000,20000000,40000000,5,250000,yes,no,no,1294260,0,yes
+260,male,person,low risk,no,Fars,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,3593930,0,no
+261,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,500000,no,no,no,18305352,0,no
+262,male,person,moderate risk,no,Tehran,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,24058396,0,yes
+263,male,person,moderate risk,no,Kerman,annually,365,1520000000,5000000,5000000,5,250000,no,no,no,1705540,0,no
+264,male,person,low risk,no,Semnan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,1721970,0,yes
+265,male,person,low risk,no,Isfahan,annually,365,1520000000,10000000,10000000,5,250000,yes,no,no,3150850,0,yes
+266,female,company,moderate risk,no,Khuzestan,annually,365,4560000000,30000000,90000000,5,250000,no,no,no,13471328,0,no
+267,male,company,moderate risk,no,Khuzestan,annually,365,4560000000,30000000,90000000,5,250000,no,no,no,13471328,0,no
+268,male,person,moderate risk,no,Lorestan,annually,365,3040000000,30000000,60000000,0,0,yes,no,no,3911188,0,no
+269,male,person,risky,no,Markazi,annually,365,3040000000,20000000,40000000,10,250000,no,no,no,9119074,0,no
+270,male,person,low risk,no,East Azarbaijan,annually,365,3040000000,20000000,40000000,10,250000,no,no,no,5729724,0,no
+271,male,person,low risk,no,Kordestan,annually,365,1520000000,30000000,30000000,5,250000,no,no,yes,1335176,0,no
+272,male,person,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,1832210,0,yes
+273,male,company,moderate risk,no,Tehran,daily,60,3040000000,30000000,60000000,5,250000,yes,no,no,1060000,0,yes
+274,male,person,low risk,no,Isfahan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,3136964,0,no
+275,male,person,moderate risk,no,Tehran,daily,182,3040000000,30000000,60000000,5,250000,no,no,no,2931430,0,no
+276,male,company,risky,yes,Isfahan,daily,182,3040000000,10000000,20000000,5,250000,yes,no,no,2569228,0,yes
+277,female,person,moderate risk,no,Isfahan,short term,89,1520000000,30000000,30000000,5,250000,yes,no,no,1060000,0,yes
+278,female,person,moderate risk,no,Isfahan,short term,89,1520000000,30000000,30000000,5,250000,no,no,no,1487922,0,no
+279,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+280,male,person,risky,no,Tehran,daily,30,3040000000,25000000,50000000,5,250000,no,no,no,1060000,0,no
+281,male,person,moderate risk,yes,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,5963242,0,no
+282,male,person,moderate risk,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+283,male,person,moderate risk,no,South Khorasan,annually,365,1520000000,10000000,10000000,5,250000,yes,no,no,3817484,0,yes
+284,male,person,risky,no,Khuzestan,daily,30,7600000000,30000000,150000000,5,250000,no,no,no,2524496,0,no
+285,male,person,low risk,no,Isfahan,annually,365,7600000000,20000000,100000000,5,250000,yes,no,no,4605806,0,yes
+286,male,company,moderate risk,yes,Kordestan,annually,365,7600000000,10000000,50000000,5,250000,yes,no,no,4458996,0,yes
+287,male,person,moderate risk,no,Yazd,annually,365,1520000000,20000000,40000000,10,500000,no,no,no,3706560,0,no
+288,male,person,risky,no,Kerman,short term,30,1520000000,10000000,10000000,5,250000,no,no,no,1060000,0,no
+289,male,person,risky,no,Zanjan,annually,365,1520000000,20000000,20000000,5,500000,no,no,no,7275840,0,no
+290,male,person,moderate risk,no,Sistan and Baluchestan,short term,60,1520000000,10000000,10000000,5,250000,no,no,no,1290550,0,no
+291,male,company,low risk,yes,Razavi Khorasan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,24222908,0,no
+292,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,500000,yes,no,no,15669238,0,yes
+293,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,500000,yes,no,no,15669238,0,yes
+294,female,person,low risk,no,Hamedan,annually,365,3040000000,20000000,40000000,0,0,yes,no,no,2690386,0,no
+295,female,company,moderate risk,no,Fars,annually,365,4560000000,50000000,150000000,5,250000,yes,no,yes,76944764,0,yes
+296,male,company,low risk,yes,Kordestan,annually,365,7600000000,10000000,50000000,5,250000,no,no,no,4458996,0,no
+297,male,person,moderate risk,no,Semnan,short term,182,3040000000,50000000,100000000,5,250000,no,no,no,5351198,20,no
+298,female,company,moderate risk,no,Hormozgan,short term,151,3040000000,5000000,10000000,5,250000,no,no,no,2732362,0,no
+299,male,person,moderate risk,yes,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,3440760,0,yes
+300,male,person,low risk,no,Khuzestan,annually,365,4560000000,30000000,90000000,5,250000,yes,no,no,1891888,0,no
+301,male,person,low risk,no,Gilan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,3549198,0,no
+302,female,company,moderate risk,no,Fars,annually,365,4560000000,65000000,195000000,5,250000,no,no,yes,7500000,0,no
+303,male,company,risky,no,Isfahan,daily,182,3040000000,30000000,60000000,5,250000,no,no,no,9179282,0,no
+304,male,company,risky,no,Hormozgan,short term,30,3040000000,10000000,20000000,10,500000,no,no,no,1512408,0,no
+305,female,person,low risk,no,Razavi Khorasan,short term,182,1520000000,10000000,10000000,5,250000,yes,no,no,1336978,30,yes
+306,male,company,moderate risk,no,Tehran,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,4366988,0,no
+307,male,company,moderate risk,yes,Isfahan,annually,365,3040000000,100000000,500000000,0,0,yes,yes,no,94132770,0,yes
+308,male,company,moderate risk,no,Isfahan,annually,365,3040000000,100000000,500000000,0,0,no,yes,no,118640712,0,no
+309,male,company,risky,no,Khuzestan,short term,182,7600000000,20000000,100000000,5,250000,no,no,no,49372256,0,no
+310,female,person,low risk,no,Kermanshah,annually,365,1520000000,10000000,10000000,10,250000,no,no,no,2554812,0,no
+311,male,company,low risk,no,Tehran,daily,51,3040000000,30000000,60000000,5,250000,no,no,no,1060000,0,no
+312,male,person,low risk,no,Isfahan,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,5733434,0,no
+313,male,person,moderate risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2679998,0,no
+314,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,10,250000,yes,no,no,10404748,0,yes
+315,male,person,risky,no,Fars,annually,365,7600000000,50000000,250000000,5,250000,yes,no,no,10270446,0,yes
+316,male,person,low risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,2532234,0,yes
+317,male,company,risky,yes,Ardabil,short term,60,3040000000,20000000,40000000,5,250000,no,no,no,1649148,0,no
+318,male,person,risky,no,Isfahan,annually,365,3040000000,50000000,100000000,10,250000,yes,no,no,4328192,0,yes
+319,male,person,moderate risk,yes,Razavi Khorasan,annually,365,1520000000,10000000,10000000,5,250000,yes,no,no,5014224,0,yes
+320,male,person,low risk,no,Isfahan,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,1990786,0,no
+321,male,person,risky,yes,Qom,short term,89,1520000000,30000000,60000000,5,500000,no,no,no,1502550,0,no
+322,male,person,low risk,yes,Ardabil,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,1135048,0,yes
+323,female,person,low risk,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,1060000,0,yes
+324,male,person,moderate risk,no,Khuzestan,daily,120,4560000000,20000000,60000000,5,250000,no,no,no,2257164,0,no
+325,male,company,risky,no,Semnan,annually,365,6080000000,50000000,500000000,5,250000,yes,no,yes,41451110,0,yes
+326,male,person,moderate risk,no,Khuzestan,daily,120,4560000000,20000000,60000000,5,250000,no,no,no,2257164,0,no
+327,male,person,moderate risk,no,Hamedan,annually,365,4560000000,50000000,150000000,5,250000,no,no,no,3453162,0,no
+328,male,company,risky,no,Khuzestan,daily,59,6080000000,30000000,120000000,5,250000,no,no,no,3919562,0,no
+329,male,person,risky,no,Mazandaran,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,2966198,0,yes
+330,male,company,moderate risk,no,Kerman,annually,365,3040000000,20000000,120000000,5,250000,yes,no,no,14733576,0,yes
+331,male,person,moderate risk,yes,Isfahan,daily,90,3040000000,10000000,20000000,5,250000,yes,no,no,2077070,0,yes
+332,male,company,moderate risk,yes,Yazd,annually,365,3040000000,50000000,100000000,10,500000,yes,no,no,19090080,0,yes
+333,female,company,low risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,4430694,0,no
+334,male,person,risky,yes,Ilam,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,6351944,0,no
+335,male,person,moderate risk,no,Mazandaran,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,4178944,0,yes
+336,male,person,moderate risk,no,Mazandaran,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,3591174,0,yes
+337,female,company,risky,no,Ardabil,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,3263952,0,no
+338,male,person,moderate risk,no,Semnan,short term,10,1520000000,50000000,50000000,5,250000,no,no,no,1060000,0,no
+339,male,person,moderate risk,no,East Azarbaijan,annually,365,3040000000,20000000,40000000,10,250000,no,no,no,5724636,0,no
+340,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+341,male,person,moderate risk,yes,South Khorasan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,2582902,0,no
+342,male,person,moderate risk,no,Tehran,annually,365,4560000000,20000000,20000000,5,1000000,no,no,no,5889678,0,no
+343,male,company,moderate risk,no,Fars,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,1689746,0,no
+344,male,person,moderate risk,no,Isfahan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,5649800,0,no
+345,male,person,moderate risk,no,Zanjan,short term,59,3040000000,30000000,60000000,5,500000,no,no,no,1434816,0,no
+346,male,person,moderate risk,yes,Mazandaran,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,3332004,0,yes
+347,male,person,low risk,no,Fars,annually,365,7600000000,50000000,250000000,5,250000,yes,no,yes,11000000,0,no
+348,male,person,risky,no,Isfahan,annually,365,4560000000,5000000,150000000,5,500000,yes,no,no,10593110,0,yes
+349,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,500000,yes,no,no,13507050,0,yes
+350,male,person,moderate risk,yes,Razavi Khorasan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,8808388,0,yes
+351,male,company,risky,no,Isfahan,annually,365,7600000000,20000000,100000000,5,250000,no,no,no,8480530,0,no
+352,male,company,moderate risk,yes,Khuzestan,daily,30,3040000000,30000000,60000000,5,250000,no,no,no,1209884,0,no
+353,male,person,moderate risk,yes,Mazandaran,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,4869216,0,no
+354,male,company,low risk,no,Razavi Khorasan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,30450726,0,no
+355,male,company,moderate risk,no,Ardabil,annually,365,9120000000,10000000,60000000,5,250000,yes,no,no,8323438,0,no
+356,male,company,moderate risk,no,Qom,annually,365,4560000000,50000000,100000000,5,500000,no,no,no,2412878,0,no
+357,male,company,risky,no,Ilam,short term,183,6080000000,10000000,40000000,5,250000,yes,no,no,4033936,0,yes
+358,male,company,moderate risk,no,Chaharmahal and Bakhtiari,annually,365,3040000000,10000000,20000000,0,0,no,no,no,7322162,0,no
+359,male,person,low risk,no,Fars,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,2777200,0,no
+360,female,person,low risk,no,Lorestan,annually,365,1520000000,50000000,50000000,0,0,no,no,no,1153704,0,no
+361,male,company,moderate risk,no,Alborz,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,7393076,0,yes
+362,male,company,moderate risk,no,Tehran,annually,365,3040000000,10000000,20000000,10,500000,yes,no,no,5152660,0,no
+363,male,person,moderate risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2128692,0,no
+364,male,person,moderate risk,no,Razavi Khorasan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,1060000,0,no
+365,male,person,risky,yes,Sistan and Baluchestan,annually,365,1520000000,0,0,0,0,no,no,yes,901000,0,no
+366,male,person,risky,yes,Sistan and Baluchestan,annually,365,1520000000,0,0,0,0,no,no,yes,901000,0,no
+367,male,person,risky,yes,Sistan and Baluchestan,annually,365,1520000000,0,0,0,0,no,no,yes,901000,0,no
+368,male,person,low risk,no,Isfahan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,2332424,0,yes
+369,male,person,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,4831904,0,yes
+370,male,person,low risk,no,Isfahan,annually,365,3040000000,10000000,50000000,5,250000,no,no,no,4882360,0,no
+371,female,person,low risk,no,South Khorasan,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,1701936,0,no
+372,male,person,moderate risk,no,Hamedan,daily,59,4560000000,50000000,150000000,0,0,yes,no,no,1531170,0,no
+373,male,person,moderate risk,no,Fars,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,4709156,0,no
+374,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+375,male,person,moderate risk,no,Fars,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,2113110,0,no
+376,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,8562150,0,yes
+377,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,8562150,0,yes
+378,male,company,low risk,no,Semnan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,4454438,0,yes
+379,male,company,low risk,no,Razavi Khorasan,annually,365,4560000000,20000000,100000000,5,250000,yes,no,no,19711230,0,no
+380,male,person,risky,no,North Khorasan,daily,90,3040000000,50000000,100000000,5,250000,yes,no,no,3628592,0,yes
+381,male,person,risky,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,yes,4380000,0,yes
+382,male,company,risky,yes,Kordestan,annually,365,7600000000,100000000,500000000,5,250000,no,no,no,65621367,0,no
+383,female,person,low risk,no,Isfahan,annually,365,1520000000,10000000,20000000,5,250000,no,no,no,1557352,0,no
+384,male,company,risky,no,Khuzestan,daily,357,7600000000,30000000,150000000,5,250000,yes,no,no,9472690,0,yes
+385,male,person,moderate risk,no,Hormozgan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,1994178,0,no
+386,male,company,moderate risk,no,Khuzestan,daily,321,10640000000,30000000,210000000,5,250000,yes,no,no,32902824,0,yes
+387,male,person,low risk,no,East Azarbaijan,annually,365,3040000000,20000000,40000000,0,0,yes,no,no,6424660,0,yes
+388,male,company,moderate risk,no,Isfahan,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,3760244,0,no
+389,male,person,low risk,no,Isfahan,annually,365,2000000000,20000000,40000000,5,250000,no,no,no,3290112,0,no
+390,male,person,moderate risk,no,Gilan,short term,90,1520000000,10000000,10000000,20,1000000,no,no,no,1060000,0,no
+391,male,person,low risk,yes,Isfahan,annually,365,10640000000,10000000,70000000,5,250000,no,no,no,5238308,0,no
+392,male,person,moderate risk,yes,Khuzestan,daily,119,1520000000,30000000,30000000,0,0,no,no,no,1060000,0,no
+393,female,company,low risk,no,Mazandaran,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,1060000,0,no
+394,male,person,risky,no,Kerman,annually,365,3040000000,50000000,100000000,10,500000,no,no,no,4006588,0,no
+395,male,company,risky,no,Isfahan,annually,365,3040000000,20000000,40000000,10,250000,no,no,no,3485492,0,no
+396,male,person,risky,no,Khuzestan,daily,30,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+397,male,person,moderate risk,no,Isfahan,short term,90,1520000000,20000000,20000000,5,250000,no,no,no,1623072,0,no
+398,male,person,low risk,no,East Azarbaijan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,3573790,0,yes
+399,male,person,low risk,no,Razavi Khorasan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,3399844,67,yes
+400,male,company,risky,no,Tehran,short term,28,3040000000,20000000,40000000,10,250000,no,no,no,2833380,0,no
+401,male,company,low risk,no,Semnan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,1435558,0,yes
+402,male,person,moderate risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,3233424,0,no
+403,male,company,moderate risk,no,Zanjan,annually,365,15200000000,20000000,200000000,0,0,yes,no,yes,99999999,0,no
+404,male,person,low risk,no,Mazandaran,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,1060000,0,no
+405,male,person,low risk,no,Kordestan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,2748686,0,no
+406,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+407,male,person,low risk,no,Lorestan,annually,365,3040000000,30000000,60000000,0,0,no,no,no,4600400,0,no
+408,male,person,low risk,no,Fars,short term,364,4560000000,20000000,60000000,5,250000,no,no,no,4144282,0,no
+409,male,person,moderate risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,3754944,0,yes
+410,male,person,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2436940,0,yes
+411,male,person,moderate risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2665582,0,no
+412,female,company,low risk,yes,Semnan,short term,326,1520000000,50000000,50000000,5,250000,no,no,no,9653102,15,no
+413,male,person,risky,no,Kerman,annually,365,1520000000,100000000,200000000,5,250000,no,no,no,10293448,0,no
+414,male,person,low risk,no,Semnan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,2853626,0,yes
+415,male,person,low risk,no,North Khorasan,annually,365,3040000000,20000000,40000000,10,250000,yes,no,no,7219872,0,yes
+416,male,person,moderate risk,no,Razavi Khorasan,annually,365,1520000000,10000000,10000000,5,250000,yes,no,no,2745824,0,yes
+417,male,person,low risk,no,Golestan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,1060000,0,no
+418,male,person,moderate risk,no,Mazandaran,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2252712,0,yes
+419,male,person,low risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,3533934,0,no
+420,male,person,risky,no,Kerman,annually,365,4560000000,10000000,30000000,5,500000,yes,no,no,4248692,0,yes
+421,male,person,moderate risk,no,Kerman,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,5250922,0,no
+422,male,company,low risk,no,Semnan,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,2264266,0,no
+423,female,person,low risk,no,Semnan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,2877582,0,no
+424,male,person,moderate risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6737996,0,no
+425,male,person,moderate risk,no,Tehran,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,4555774,0,no
+426,male,person,moderate risk,no,Isfahan,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,6066486,0,yes
+427,male,company,moderate risk,no,Khuzestan,daily,90,1520000000,30000000,30000000,5,250000,no,no,no,1322244,0,no
+428,male,person,moderate risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6591398,0,no
+429,male,company,low risk,no,East Azarbaijan,annually,365,1520000000,20000000,20000000,0,0,yes,no,no,3451360,0,yes
+430,male,company,low risk,no,Razavi Khorasan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,2346628,33,yes
+431,male,person,moderate risk,no,Kordestan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,3591068,0,yes
+432,male,person,risky,no,Khuzestan,daily,90,1520000000,10000000,10000000,5,250000,no,no,no,1060000,0,no
+433,female,company,low risk,no,Hamedan,annually,365,4560000000,30000000,90000000,0,0,yes,no,no,3811230,0,yes
+434,male,company,risky,no,Tehran,annually,365,15200000000,15000000,150000000,10,200000,yes,no,no,62713310,0,no
+435,male,person,low risk,yes,Razavi Khorasan,annually,365,6080000000,10000000,40000000,5,250000,yes,no,no,1461422,0,yes
+436,male,person,risky,no,Mazandaran,daily,59,3040000000,10000000,20000000,5,250000,no,no,no,1060000,0,no
+437,male,person,risky,no,North Khorasan,daily,183,4560000000,50000000,150000000,5,250000,yes,no,no,5410876,0,yes
+438,male,person,risky,no,Qom,short term,59,1520000000,50000000,150000000,5,500000,no,no,no,1183596,0,no
+439,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+440,male,company,risky,no,Tehran,annually,365,7600000000,20000000,75000000,5,250000,yes,no,no,44221080,0,yes
+441,female,company,low risk,no,Zanjan,annually,365,4560000000,20000000,60000000,5,300000,yes,no,no,4004786,0,yes
+442,male,person,low risk,no,Ardabil,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,4504364,0,no
+443,female,company,low risk,no,Kordestan,annually,365,15200000000,10000000,150000000,5,500000,no,no,no,27223344,0,no
+444,male,company,risky,no,Tehran,annually,365,4560000000,30000000,60000000,5,250000,no,no,no,8937708,0,no
+445,male,person,low risk,no,Ardabil,annually,365,7600000000,20000000,100000000,5,250000,yes,no,no,15017444,0,yes
+446,male,person,risky,no,Isfahan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,2364648,0,yes
+447,male,person,low risk,no,Tehran,short term,183,4560000000,30000000,90000000,5,250000,no,no,no,3137918,0,no
+448,male,person,moderate risk,no,Mazandaran,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,1856272,0,no
+449,male,person,risky,no,Isfahan,short term,121,4560000000,30000000,90000000,5,250000,no,no,no,2569440,0,no
+450,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+451,male,person,low risk,no,Isfahan,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,6645246,0,yes
+452,male,person,moderate risk,yes,Mazandaran,short term,30,3040000000,20000000,40000000,5,250000,no,no,no,1208930,0,no
+453,male,company,risky,yes,Chaharmahal and Bakhtiari,annually,365,3040000000,30000000,60000000,0,0,no,no,no,6441196,0,no
+454,male,person,moderate risk,no,Qom,short term,60,1520000000,50000000,100000000,5,250000,no,no,no,1329028,0,no
+455,male,company,risky,no,Mazandaran,daily,15,7600000000,50000000,250000000,5,250000,no,no,no,1060000,0,no
+456,male,person,low risk,no,Fars,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,9321852,0,no
+457,male,person,low risk,no,Isfahan,annually,365,1520000000,10000000,30000000,0,0,no,no,no,1851396,0,no
+458,male,person,moderate risk,yes,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,2977540,0,no
+459,male,person,risky,no,Kerman,annually,365,1520000000,100000000,100000000,5,250000,no,no,no,2134946,0,no
+460,male,company,risky,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+461,male,company,risky,no,Qazvin,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,6206088,0,no
+462,female,person,low risk,no,South Khorasan,short term,34,4560000000,10000000,30000000,5,250000,no,no,no,1060000,0,no
+463,male,person,risky,no,Tehran,daily,30,3040000000,25000000,50000000,5,250000,yes,no,no,1060000,0,yes
+464,female,company,low risk,no,Tehran,annually,365,21280000000,40000000,560000000,10,250000,yes,no,no,31693364,0,yes
+465,male,company,moderate risk,yes,West Azerbaijan,annually,365,3040000000,40000000,80000000,5,250000,yes,no,no,6979146,5,yes
+466,male,person,risky,no,Fars,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,9447674,0,no
+467,male,person,low risk,no,Fars,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,1479654,0,no
+468,male,company,moderate risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,4430694,0,no
+469,female,company,moderate risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,4430694,0,no
+470,female,company,moderate risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,4430694,0,no
+471,male,company,moderate risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,4430694,0,no
+472,female,company,moderate risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,4430694,0,no
+473,male,company,moderate risk,no,North Khorasan,annually,365,3040000000,10000000,20000000,10,250000,no,no,no,7280292,15,no
+474,male,company,moderate risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,4430694,0,no
+475,male,person,risky,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2131236,0,yes
+476,male,company,risky,no,West Azerbaijan,annually,365,4560000000,50000000,150000000,5,250000,no,no,no,7963780,20,no
+477,male,person,low risk,no,Fars,short term,59,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+478,male,person,risky,no,Hamedan,annually,365,3040000000,30000000,60000000,0,0,no,no,no,3264164,0,no
+479,male,person,low risk,no,Qom,annually,365,1520000000,40000000,40000000,5,250000,no,no,no,1946690,0,no
+480,male,person,low risk,no,Qom,annually,365,1520000000,40000000,40000000,5,250000,no,no,no,1688474,0,no
+481,male,person,low risk,yes,Fars,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,1060000,0,no
+482,male,person,moderate risk,yes,Isfahan,annually,365,3040000000,40000000,80000000,5,250000,yes,no,no,6812832,0,yes
+483,male,person,moderate risk,yes,Hormozgan,annually,365,9120000000,10000000,60000000,5,250000,yes,no,no,12143996,0,yes
+484,male,person,risky,yes,Yazd,annually,365,1520000000,20000000,20000000,10,500000,no,no,no,2851188,0,no
+485,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+486,male,person,moderate risk,no,Isfahan,short term,90,4560000000,10000000,30000000,5,250000,no,no,no,3307094,0,no
+487,male,person,moderate risk,no,Semnan,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,3226428,0,no
+488,male,person,moderate risk,yes,Kerman,annually,365,1520000000,100000000,200000000,5,250000,yes,no,no,2308044,0,no
+489,female,company,low risk,no,Tehran,annually,365,7600000000,40000000,200000000,5,250000,yes,no,no,56612056,0,yes
+490,female,person,low risk,yes,Isfahan,annually,365,6080000000,20000000,80000000,5,250000,yes,no,no,2871116,0,yes
+491,male,person,low risk,no,Khuzestan,annually,365,3040000000,40000000,80000000,0,0,no,no,no,4070612,0,no
+492,male,company,moderate risk,no,Hamedan,annually,365,4560000000,20000000,60000000,0,0,no,no,no,2472344,0,no
+493,female,company,low risk,no,Markazi,daily,127,3040000000,30000000,60000000,10,500000,no,no,no,6989322,0,no
+494,male,person,moderate risk,no,Tehran,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,2028522,0,yes
+495,male,person,risky,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2707240,0,yes
+496,male,person,low risk,yes,Khuzestan,annually,365,1520000000,30000000,30000000,0,0,no,no,no,1277936,0,no
+497,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,5986350,0,no
+498,male,person,low risk,no,Qom,annually,365,1520000000,40000000,40000000,5,250000,no,no,no,2595516,0,no
+499,male,person,moderate risk,no,Gilan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,3064566,0,no
+500,male,company,risky,no,Zanjan,annually,365,3040000000,100000000,300000000,5,250000,no,no,no,16800894,0,no
+501,male,person,risky,no,Semnan,short term,29,1520000000,30000000,30000000,5,250000,no,no,no,2785044,0,no
+502,male,person,moderate risk,yes,Isfahan,annually,365,3040000000,40000000,80000000,5,250000,yes,no,no,3150002,0,yes
+503,male,person,risky,no,Tehran,annually,365,3040000000,50000000,100000000,10,1000000,no,no,no,4468642,0,no
+504,male,person,risky,yes,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2592018,0,yes
+505,male,company,low risk,no,Khuzestan,daily,212,7600000000,30000000,150000000,5,250000,no,no,no,50246862,0,no
+506,male,person,low risk,no,Isfahan,annually,365,1520000000,10000000,20000000,5,250000,no,no,no,1919236,0,no
+507,male,company,low risk,no,Hormozgan,short term,364,3040000000,5000000,10000000,5,250000,no,no,no,2343660,0,no
+508,male,company,moderate risk,no,Khuzestan,daily,56,1520000000,10000000,20000000,0,0,no,no,no,2137914,0,no
+509,male,person,risky,yes,Isfahan,annually,365,3040000000,15000000,30000000,5,250000,yes,no,no,8955410,0,yes
+510,male,company,moderate risk,no,Tehran,annually,365,3040000000,20000000,40000000,0,0,yes,no,no,9320368,0,yes
+511,male,person,risky,no,Khuzestan,daily,29,7600000000,30000000,150000000,5,250000,yes,no,no,2440332,0,yes
+512,male,person,risky,no,Isfahan,annually,365,4560000000,50000000,150000000,5,250000,no,no,no,3755898,0,no
+513,male,person,low risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,1956230,0,no
+514,male,person,risky,no,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,11179608,0,yes
+515,male,person,risky,no,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,16710158,0,yes
+516,male,person,low risk,no,Kordestan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,3730564,0,yes
+517,male,person,moderate risk,no,Isfahan,annually,365,12160000000,50000000,400000000,5,250000,no,no,no,9344854,0,no
+518,female,company,low risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,3698446,0,yes
+519,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,10000994,0,yes
+520,male,person,moderate risk,no,Khuzestan,daily,29,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+521,male,person,risky,no,Isfahan,annually,365,4560000000,30000000,90000000,5,250000,yes,no,no,25224502,0,yes
+522,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,10370086,0,yes
+523,male,person,moderate risk,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,8948944,0,no
+524,male,person,moderate risk,no,Kermanshah,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,6784000,0,no
+525,male,company,risky,no,Ardabil,short term,29,1520000000,20000000,20000000,5,250000,no,no,no,1060000,0,no
+526,male,person,moderate risk,no,Razavi Khorasan,daily,184,3040000000,20000000,40000000,5,250000,no,no,no,14772054,0,no
+527,male,person,risky,no,Khuzestan,daily,184,1520000000,20000000,20000000,5,250000,no,no,no,1711688,0,no
+528,male,person,low risk,no,Isfahan,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,1630068,0,no
+529,male,person,moderate risk,no,Hormozgan,annually,365,6080000000,5000000,20000000,5,250000,yes,no,no,10229636,0,yes
+530,male,person,risky,no,Isfahan,annually,365,7600000000,30000000,150000000,5,250000,no,no,no,7428692,0,no
+531,male,person,risky,no,Alborz,short term,29,1520000000,20000000,20000000,5,250000,no,no,no,1060000,0,no
+532,male,person,moderate risk,yes,Fars,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,5227496,0,yes
+533,male,company,risky,yes,Isfahan,annually,365,4560000000,50000000,100000000,5,250000,yes,no,no,8511588,0,no
+534,female,company,low risk,no,Qom,annually,365,7600000000,30000000,150000000,5,50000,no,no,no,7070730,0,no
+535,male,company,risky,no,Khuzestan,daily,183,6000000000,50000000,150000000,5,250000,no,no,no,27727056,0,no
+536,male,company,risky,yes,Khuzestan,daily,90,20000000000,30000000,300000000,5,250000,no,no,no,13303440,0,no
+537,male,person,moderate risk,no,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,3883896,0,no
+538,male,person,low risk,yes,Tehran,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,2534566,0,no
+539,male,person,low risk,no,Razavi Khorasan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,1322244,0,no
+540,male,company,moderate risk,no,Khuzestan,daily,66,1520000000,30000000,30000000,5,250000,no,no,no,1060000,0,no
+541,male,person,moderate risk,no,Isfahan,annually,365,4560000000,20000000,60000000,10,500000,no,no,no,4713078,0,no
+542,male,person,low risk,no,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,4732052,0,no
+543,male,person,moderate risk,no,Isfahan,annually,365,1520000000,100000000,200000000,5,250000,no,no,no,6264812,0,no
+544,male,company,low risk,no,Semnan,annually,365,4560000000,30000000,120000000,5,250000,yes,yes,no,38540964,4,yes
+545,male,person,low risk,no,Yazd,annually,365,3040000000,10000000,20000000,10,500000,yes,no,no,3947334,0,no
+546,female,company,low risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2611840,0,no
+547,male,company,moderate risk,no,Tehran,annually,365,3040000000,100000000,200000000,10,10000000,no,no,no,20817552,0,no
+548,male,person,low risk,no,Alborz,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,2553752,0,no
+549,male,person,moderate risk,no,Qom,annually,365,6080000000,50000000,200000000,5,250000,no,no,no,8562256,0,no
+550,female,company,moderate risk,no,Hormozgan,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,7564902,0,no
+551,male,person,low risk,no,Mazandaran,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,3395392,0,no
+552,female,company,low risk,no,Razavi Khorasan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,2736178,44,yes
+553,male,person,low risk,no,Tehran,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,5267988,0,yes
+554,male,person,low risk,no,Tehran,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,5612382,10,no
+555,male,person,moderate risk,no,Qom,annually,365,4560000000,100000000,500000000,5,250000,no,no,no,4766820,0,no
+556,female,company,low risk,no,Tehran,annually,365,3040000000,94500000,945000000,5,250000,yes,no,no,41476952,0,yes
+557,male,company,risky,yes,Isfahan,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,36703242,0,no
+558,male,person,moderate risk,no,Mazandaran,annually,365,3040000000,50000000,100000000,5,250000,no,no,no,5058850,0,no
+559,male,person,moderate risk,no,East Azarbaijan,annually,365,4000000000,20000000,40000000,10,250000,no,no,no,11224656,0,no
+560,male,person,risky,no,Tehran,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,4645238,0,yes
+561,male,person,low risk,no,Qom,annually,365,1520000000,50000000,50000000,5,250000,yes,no,no,1461422,0,yes
+562,male,person,low risk,no,Qom,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,1761190,0,yes
+563,male,person,low risk,no,Qom,annually,365,3040000000,50000000,100000000,5,250000,yes,no,no,1761190,0,yes
+564,male,person,moderate risk,no,South Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,4693680,0,yes
+565,male,company,low risk,no,Tehran,annually,365,4560000000,50000000,150000000,0,0,no,no,no,19394714,0,no
+566,male,company,moderate risk,yes,Chaharmahal and Bakhtiari,annually,365,4560000000,50000000,150000000,0,0,no,no,no,34495898,0,no
+567,male,person,moderate risk,no,Razavi Khorasan,daily,91,3040000000,10000000,20000000,5,250000,yes,no,no,2488880,0,yes
+568,male,company,risky,no,Gilan,daily,29,1520000000,20000000,60000000,5,250000,no,no,no,1060000,0,no
+569,male,person,moderate risk,no,Qom,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,3185194,0,no
+570,male,person,low risk,no,East Azarbaijan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,3890412,0,no
+571,male,person,moderate risk,no,Bushehr,short term,59,3040000000,20000000,60000000,5,250000,no,no,no,4394866,0,no
+572,female,company,moderate risk,no,East Azarbaijan,annually,365,3040000000,20000000,40000000,5,250000,yes,yes,no,58178736,0,yes
+573,female,company,low risk,no,East Azarbaijan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,3501604,0,no
+574,male,person,risky,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,yes,no,no,9269382,0,yes
+575,male,person,risky,no,Ilam,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,2658904,0,no
+576,male,person,risky,no,Ilam,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,2658904,0,no
+577,male,person,moderate risk,no,Kerman,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,3348858,0,yes
+578,male,person,low risk,yes,Hormozgan,annually,365,6080000000,5000000,20000000,5,250000,yes,no,no,3110040,0,yes
+579,female,company,low risk,yes,Khuzestan,annually,365,3040000000,20000000,60000000,0,0,no,no,no,15753614,0,no
+580,male,person,moderate risk,no,Khuzestan,daily,29,1520000000,20000000,20000000,5,250000,no,no,no,1351818,0,no
+581,male,person,low risk,no,East Azarbaijan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,1060000,0,no
+582,male,person,risky,no,Khuzestan,daily,29,1520000000,20000000,20000000,10,500000,no,no,no,1060000,0,no
+583,male,person,low risk,no,Semnan,daily,29,1520000000,100000000,100000000,5,250000,no,no,no,1060000,0,no
+584,male,person,low risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,4430058,0,no
+585,male,person,low risk,no,East Azarbaijan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,5540832,0,no
+586,male,person,low risk,no,Razavi Khorasan,annually,365,4560000000,30000000,90000000,5,250000,yes,no,no,4228446,25,yes
+587,male,person,moderate risk,no,East Azarbaijan,annually,365,1520000000,20000000,20000000,5,250000,no,no,no,1352560,0,no
+588,male,company,moderate risk,no,Semnan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,9087168,0,yes
+589,male,person,low risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,3512946,0,no
+590,male,company,moderate risk,no,Kordestan,annually,365,7600000000,20000000,100000000,5,250000,no,no,no,2671730,0,no
+591,female,person,low risk,no,Isfahan,short term,364,4560000000,20000000,60000000,5,250000,no,no,no,1060742,0,no
+592,male,person,moderate risk,yes,Razavi Khorasan,daily,184,3040000000,10000000,20000000,5,250000,yes,no,no,1261930,0,yes
+593,female,company,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,2908958,0,no
+594,male,person,moderate risk,no,Isfahan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,3492382,0,yes
+595,male,person,moderate risk,no,Hormozgan,annually,365,4560000000,5000000,15000000,5,250000,no,no,no,6510202,0,no
+596,male,person,low risk,no,Mazandaran,short term,29,3040000000,20000000,40000000,5,250000,no,no,no,2334756,0,no
+597,male,person,moderate risk,no,Qom,annually,365,1520000000,10000000,20000000,5,250000,yes,no,no,2039546,0,yes
+598,male,company,moderate risk,no,Tehran,daily,43,3040000000,30000000,60000000,5,250000,yes,no,no,1080000,0,yes
+599,male,company,risky,yes,Semnan,annually,365,4560000000,30000000,90000000,5,250000,yes,no,no,8765034,0,yes
+600,male,person,risky,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2696652,0,no
+601,male,person,low risk,no,Hamedan,annually,365,4560000000,20000000,60000000,5,250000,no,no,no,4684882,0,no
+602,male,person,moderate risk,no,Isfahan,annually,365,7600000000,50000000,150000000,5,250000,no,no,no,11781582,0,no
+603,male,company,low risk,no,Lorestan,annually,365,3040000000,20000000,40000000,10,2000000,no,no,no,4012206,0,no
+604,male,person,moderate risk,no,Ardabil,annually,365,7600000000,40000000,200000000,5,250000,yes,no,no,11495594,0,yes
+605,male,person,low risk,no,Khuzestan,annually,365,3040000000,40000000,80000000,5,250000,no,no,no,3472242,0,no
+606,male,company,low risk,no,Tehran,annually,365,1520000000,40000000,40000000,5,250000,no,no,no,1317474,0,no
+607,male,person,moderate risk,no,Chaharmahal and Bakhtiari,annually,365,1520000000,10000000,10000000,0,0,no,no,no,2426552,0,no
+608,male,company,low risk,no,Semnan,annually,365,3040000000,30000000,120000000,5,250000,yes,no,no,9504278,2,yes
+609,male,person,risky,no,Mazandaran,short term,30,1520000000,10000000,10000000,5,250000,no,no,no,1223452,0,no
+610,female,company,low risk,no,Razavi Khorasan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2325746,0,yes
+611,male,person,risky,no,Razavi Khorasan,annually,365,1520000000,5000000,5000000,5,250000,no,no,no,3120110,0,no
+612,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,15697328,0,yes
+613,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,17144546,0,yes
+614,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,yes,no,no,24956322,0,yes
+615,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,14194036,0,no
+616,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,13435182,0,no
+617,male,person,risky,no,Khuzestan,annually,365,2000000000,20000000,40000000,5,250000,yes,no,no,15121188,0,yes
+618,male,person,risky,no,Hormozgan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,6588642,0,yes
+619,female,person,moderate risk,no,Isfahan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,4380768,0,yes
+620,male,person,low risk,no,Semnan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,2271792,0,yes
+621,male,person,low risk,no,Semnan,annually,365,1520000000,30000000,30000000,5,250000,no,no,no,2774020,0,no
+622,male,person,risky,no,Isfahan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,14502602,0,no
+623,male,person,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,8501836,0,no
+624,male,person,moderate risk,no,Hamedan,annually,365,7600000000,30000000,150000000,5,250000,yes,no,no,9133702,0,no
+625,female,company,low risk,no,Qom,annually,365,4560000000,40000000,200000000,5,500000,yes,no,yes,8500000,0,yes
+626,male,person,low risk,no,East Azarbaijan,annually,365,4560000000,30000000,90000000,5,250000,no,no,no,4896352,0,no
+627,male,person,moderate risk,no,Tehran,annually,365,4560000000,100000000,400000000,5,250000,no,no,no,7394878,0,no
+628,male,person,moderate risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,11459448,0,no
+629,male,person,risky,no,Tehran,daily,93,4560000000,50000000,150000000,5,250000,no,no,no,3437262,0,no
+630,male,person,low risk,no,Tehran,annually,365,1520000000,50000000,50000000,5,250000,yes,no,yes,1971600,0,yes
+631,female,company,low risk,yes,West Azerbaijan,annually,365,10640000000,20000000,140000000,5,250000,yes,yes,no,31680220,10,yes
+632,male,person,low risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,5582808,0,no
+633,male,person,moderate risk,no,Kordestan,annually,365,1520000000,30000000,30000000,10,3000000,no,no,no,1937044,0,no
+634,male,person,risky,no,Sistan and Baluchestan,annually,365,12160000000,10000000,80000000,5,250000,no,no,yes,7208000,0,no
+635,male,person,low risk,no,Qazvin,annually,365,1520000000,30000000,30000000,5,250000,yes,no,no,3380764,0,yes
+636,male,company,moderate risk,no,Semnan,annually,365,4560000000,30000000,90000000,5,250000,no,no,no,4657216,0,no
+637,male,person,low risk,no,Hormozgan,annually,365,3040000000,10000000,20000000,5,250000,no,no,no,2836878,0,no
+638,male,company,risky,no,Razavi Khorasan,daily,93,4560000000,5000000,15000000,5,250000,no,no,no,1225148,0,no
+639,male,person,low risk,no,Qom,annually,365,1520000000,50000000,100000000,5,250000,no,no,no,1869204,0,no
+640,male,person,low risk,no,Mazandaran,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2940516,0,yes
+641,male,person,moderate risk,no,Ardabil,short term,62,3040000000,10000000,20000000,5,250000,yes,no,no,2291544,0,yes
+642,male,company,low risk,no,Kordestan,short term,186,1520000000,50000000,50000000,5,250000,no,no,no,1291464,0,no
+643,male,person,low risk,no,Ardabil,annually,365,4000000000,20000000,60000000,5,250000,no,no,no,1930501,0,no
+644,male,person,risky,no,North Khorasan,annually,365,4560000000,40000000,120000000,5,250000,no,no,no,7152301,0,no
+645,male,person,moderate risk,no,Razavi Khorasan,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,5977800,0,no
+646,male,company,risky,yes,Khuzestan,daily,319,3040000000,30000000,150000000,10,500000,no,no,no,32434560,0,no
+647,male,person,risky,no,Alborz,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,4319676,0,yes
+648,male,person,risky,no,Kermanshah,annually,365,4560000000,25000000,75000000,5,250000,yes,no,no,2927232,0,yes
+649,male,person,low risk,no,Lorestan,annually,365,3040000000,10000000,20000000,0,0,no,no,no,1180764,0,no
+650,male,person,risky,no,Semnan,short term,31,1520000000,30000000,30000000,5,250000,yes,no,no,2837592,0,yes
+651,male,person,moderate risk,no,Razavi Khorasan,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,4670244,30,yes
+652,male,company,risky,no,Isfahan,daily,62,4560000000,20000000,60000000,0,0,no,no,no,3428892,0,no
+653,male,person,low risk,no,Isfahan,short term,364,3040000000,30000000,60000000,5,250000,yes,no,no,1080000,0,yes
+654,male,company,moderate risk,no,Gilan,daily,31,1520000000,20000000,60000000,5,250000,yes,no,no,1080000,0,yes
+655,female,person,moderate risk,no,Chaharmahal and Bakhtiari,short term,62,1520000000,20000000,20000000,5,250000,no,no,no,1649052,0,no
+656,male,person,risky,no,Khuzestan,daily,31,6080000000,30000000,150000000,5,250000,yes,no,no,2547072,0,yes
+657,male,person,moderate risk,yes,Kermanshah,daily,186,7600000000,50000000,250000000,5,250000,no,no,no,3500280,0,no
+658,male,company,low risk,no,Isfahan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,6970644,0,no
+659,male,person,low risk,no,Kerman,annually,365,3040000000,5000000,100000000,0,0,no,no,no,1923156,0,no
+660,male,person,low risk,no,Tehran,annually,365,7600000000,40000000,200000000,5,250000,no,no,no,2253528,0,no
+661,male,person,risky,no,Tehran,annually,365,10000000000,30000000,150000000,5,250000,yes,no,no,20691936,0,yes
+662,male,person,low risk,no,Isfahan,annually,365,4560000000,20000000,60000000,5,500000,yes,no,no,3179952,0,yes
+663,male,person,low risk,no,Kerman,daily,186,1520000000,20000000,20000000,5,250000,no,no,no,1828008,0,no
+664,male,person,moderate risk,no,Isfahan,annually,365,3040000000,30000000,60000000,5,250000,yes,no,no,5664816,0,yes
+665,male,person,risky,no,Fars,annually,365,3040000000,50000000,100000000,5,250000,no,no,yes,2619541,0,no
+666,male,person,low risk,no,Qom,annually,365,1520000000,50000000,50000000,5,250000,yes,no,no,1648296,0,yes
+667,male,person,low risk,yes,Isfahan,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,2058588,0,yes
+668,male,person,low risk,no,Tehran,annually,365,4560000000,50000000,150000000,5,250000,yes,no,no,3642624,0,yes
+669,male,company,moderate risk,no,Khuzestan,daily,93,4560000000,40000000,200000000,0,0,no,no,no,8575524,0,no
+670,male,person,risky,yes,Razavi Khorasan,annually,365,4000000000,10000000,20000000,5,250000,yes,no,yes,4302612,8,yes
+671,male,company,risky,no,Isfahan,daily,185,6000000000,20000000,60000000,5,250000,no,no,yes,4840884,0,no
+672,male,person,moderate risk,no,South Khorasan,annually,365,3040000000,20000000,40000000,5,250000,no,no,no,3693276,0,no
+673,male,person,moderate risk,no,Qom,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,2636496,0,no
+674,male,person,low risk,no,Qom,annually,365,7600000000,40000000,160000000,5,250000,yes,no,no,6872364,0,yes
+675,male,person,low risk,no,Tehran,annually,365,1520000000,50000000,50000000,5,250000,yes,no,no,1080000,0,yes
+676,male,person,low risk,no,Tehran,annually,365,4560000000,20000000,60000000,5,250000,yes,no,no,7799760,0,yes
+677,male,person,low risk,no,Isfahan,annually,365,10640000000,20000000,140000000,5,250000,yes,no,no,4400784,0,yes
+678,male,person,low risk,no,Tehran,annually,365,4560000000,30000000,90000000,5,250000,yes,no,no,8880840,0,yes
+679,male,company,low risk,no,Semnan,annually,365,1520000000,20000000,20000000,5,250000,yes,no,no,1738584,0,yes
+680,male,person,moderate risk,no,Tehran,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,9060661,0,no
+681,male,person,risky,no,Isfahan,annually,365,1520000000,50000000,50000000,5,500000,no,no,no,3434076,0,no
+682,female,person,low risk,no,Isfahan,long term,396,4560000000,20000000,60000000,5,250000,yes,no,no,1837404,0,no
+683,male,person,moderate risk,no,Tehran,annually,365,3040000000,20000000,40000000,5,250000,yes,no,no,2489076,0,yes
+684,male,person,moderate risk,no,Razavi Khorasan,annually,365,3040000000,10000000,20000000,5,250000,yes,no,no,10096381,0,yes
+685,male,person,moderate risk,no,Lorestan,annually,365,4000000000,50000000,100000000,10,500000,no,no,yes,4945428,0,no
+686,male,person,moderate risk,no,Markazi,annually,365,4560000000,30000000,90000000,5,250000,yes,no,no,7309440,0,yes
+687,male,person,moderate risk,yes,Ilam,annually,365,6080000000,10000000,40000000,5,250000,no,no,no,2557224,0,no
+688,male,person,moderate risk,no,Qom,annually,365,1520000000,10000000,40000000,5,250000,no,no,no,2017741,0,no
+689,male,company,risky,no,Semnan,daily,186,3040000000,30000000,60000000,5,250000,yes,no,no,3249396,42,yes
+690,male,company,risky,yes,Zanjan,annually,365,4000000000,30000000,60000000,5,250000,no,no,no,23863572,0,no
+691,male,person,moderate risk,no,Gilan,short term,31,1520000000,10000000,20000000,5,250000,no,no,no,1091448,0,no
+692,male,person,moderate risk,no,Lorestan,annually,365,4560000000,20000000,60000000,0,0,yes,no,no,2694384,0,yes
+693,male,person,risky,no,Isfahan,annually,365,1520000000,50000000,50000000,5,250000,no,no,no,2927124,0,no
+694,male,person,moderate risk,no,Hamedan,annually,365,1520000000,50000000,50000000,0,0,no,no,no,3881628,0,no
+695,female,company,low risk,no,Isfahan,annually,365,4000000000,50000000,100000000,5,250000,no,no,yes,4192128,0,no
+696,male,company,risky,no,Khuzestan,daily,155,3040000000,30000000,60000000,0,0,no,no,no,6122844,0,no
+697,male,company,risky,no,Markazi,daily,31,8000000000,20000000,80000000,10,500000,no,no,no,1411560,0,no
+698,male,person,low risk,yes,Qom,annually,365,1520000000,40000000,80000000,5,250000,no,no,no,2896884,0,no
+699,male,person,moderate risk,no,Tehran,annually,365,10000000000,50000000,250000000,5,250000,yes,no,no,12527461,0,yes
+700,male,company,moderate risk,no,Markazi,daily,62,3040000000,30000000,60000000,5,250000,no,no,no,2224800,0,no
+701,male,person,low risk,no,Tehran,annually,365,1520000000,10000000,10000000,5,250000,no,no,no,2600316,0,no
+702,male,company,low risk,no,Razavi Khorasan,annually,365,4560000000,10000000,30000000,5,250000,no,no,no,4662684,0,no
+703,male,person,moderate risk,yes,Razavi Khorasan,annually,365,2000000000,20000000,20000000,5,250000,no,no,no,1785348,0,no
+704,male,person,low risk,no,Tehran,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,5533488,0,no
+705,male,person,low risk,no,Tehran,annually,365,3040000000,30000000,60000000,5,250000,no,no,no,6256008,0,no
+706,male,person,low risk,no,Qom,annually,365,2000000000,40000000,80000000,5,250000,no,no,no,2811564,0,no
+707,male,person,low risk,no,Qom,annually,365,4000000000,40000000,120000000,5,250000,no,no,no,3888432,0,no
+708,male,person,low risk,no,Isfahan,annually,365,4000000000,10000000,20000000,10,10,yes,no,no,4045680,0,yes
+709,male,person,low risk,no,Qom,annually,365,2000000000,40000000,80000000,5,250000,no,no,no,3115044,0,no
+710,male,person,moderate risk,no,Markazi,daily,31,4000000000,50000000,100000000,10,500000,no,no,no,1080000,0,no
+711,male,company,risky,no,Fars,annually,365,4000000000,40000000,80000000,5,250000,no,no,yes,10000000,0,no
+712,male,company,risky,no,Fars,annually,365,4000000000,40000000,80000000,5,250000,no,no,yes,10000000,0,no
+713,male,person,moderate risk,no,Mazandaran,daily,62,4000000000,20000000,40000000,5,250000,no,no,no,1080000,0,no
+714,male,company,low risk,no,Gilan,annually,365,6000000000,40000000,120000000,5,250000,no,no,no,9075456,0,no
+715,male,person,moderate risk,no,Tehran,annually,365,4000000000,30000000,60000000,5,250000,yes,no,no,5940432,0,yes
+716,male,person,low risk,no,Tehran,short term,31,2000000000,40000000,40000000,5,250000,no,no,no,4097520,0,no
+717,male,person,low risk,no,Kerman,annually,365,6000000000,100000000,300000000,5,250000,no,no,no,4107672,0,no
+718,male,company,low risk,yes,Khuzestan,daily,295,6000000000,30000000,90000000,10,500000,no,no,yes,10902816,0,no
+719,female,company,low risk,no,Kerman,annually,365,10000000000,10000000,50000000,5,250000,no,no,yes,154999999,0,no
+720,male,person,moderate risk,no,Markazi,annually,365,4000000000,30000000,60000000,10,500000,no,no,yes,4999999,0,no
+721,male,person,moderate risk,yes,Mazandaran,daily,185,4000000000,20000000,40000000,5,250000,no,no,yes,2595240,0,no
+722,male,person,risky,no,Hormozgan,annually,365,4000000000,5000000,10000000,5,250000,no,no,no,6805728,0,no
+723,male,person,low risk,no,Qom,annually,365,4000000000,50000000,150000000,5,250000,no,no,no,3806784,0,no
+724,male,person,low risk,no,Qom,annually,365,4000000000,50000000,150000000,5,250000,no,no,no,2981341,0,no
+725,female,person,low risk,no,Isfahan,annually,365,6000000000,20000000,60000000,5,25,yes,no,yes,1654236,0,yes
+726,male,person,low risk,no,Qom,annually,365,4000000000,50000000,150000000,5,250000,no,no,no,3390552,0,no
+727,male,person,low risk,no,Isfahan,annually,365,6000000000,10000000,30000000,5,250000,yes,no,no,3614004,0,yes
+728,male,person,risky,no,Lorestan,annually,365,2000000000,50000000,50000000,0,0,no,no,yes,2394792,0,no
+729,male,company,moderate risk,no,Hormozgan,annually,365,4000000000,15000000,30000000,5,250000,yes,no,yes,7058988,0,yes
+730,female,person,low risk,no,Isfahan,annually,365,10000000000,20000000,100000000,5,25,yes,no,no,1193832,0,yes
+731,male,company,moderate risk,no,Tehran,annually,365,6000000000,50000000,150000000,0,0,no,no,yes,5896800,0,no
+732,female,company,low risk,no,Qazvin,annually,365,2000000000,20000000,20000000,5,250000,no,no,no,11043541,0,no
+733,male,person,moderate risk,yes,Khuzestan,annually,365,6000000000,50000000,150000000,5,250000,no,no,yes,4627476,0,no
+734,male,person,moderate risk,yes,South Khorasan,annually,365,4000000000,10000000,20000000,5,250000,no,no,yes,4209084,0,no
+735,male,company,low risk,no,Semnan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,yes,5373972,0,yes
+736,male,person,low risk,yes,Kerman,annually,365,2000000000,20000000,40000000,5,250000,yes,no,yes,8271396,0,yes
+737,male,person,risky,no,Mazandaran,short term,62,6000000000,10000000,30000000,5,250000,no,no,yes,1497421,0,no
+738,male,person,risky,no,Razavi Khorasan,annually,365,2000000000,30000000,30000000,5,250000,yes,no,yes,1914408,0,yes
+739,male,person,risky,no,Isfahan,annually,365,10000000000,50000000,250000000,5,250000,yes,no,no,18197784,0,yes
+740,male,person,low risk,yes,Kerman,annually,365,4000000000,30000000,60000000,5,250000,yes,no,yes,18322741,0,yes
+741,male,person,moderate risk,no,Khuzestan,annually,365,2000000000,50000000,100000000,5,250000,no,no,yes,2417148,0,no
+742,male,company,moderate risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,25,yes,no,yes,5218452,0,yes
+743,male,company,low risk,no,Tehran,annually,365,6000000000,20000000,60000000,5,25,yes,no,yes,3014496,0,yes
+744,male,person,moderate risk,no,Kordestan,short term,62,4000000000,50000000,100000000,5,250000,no,no,yes,1711584,0,no
+745,male,person,low risk,no,Qom,annually,365,4000000000,50000000,150000000,5,250000,no,no,yes,3274236,0,no
+746,male,person,low risk,no,Qom,annually,365,4000000000,50000000,100000000,5,250000,no,no,yes,2366388,0,no
+747,male,company,risky,no,Sistan and Baluchestan,annually,365,30000000000,40000000,600000000,0,0,no,no,no,42711840,0,no
+748,male,person,moderate risk,no,Isfahan,short term,93,2000000000,20000000,20000000,5,250000,no,no,no,3527172,0,no
+749,male,company,risky,no,Hamedan,short term,93,10000000000,20000000,100000000,0,0,no,no,yes,4313844,0,no
+750,female,company,low risk,no,Fars,annually,365,8000000000,30000000,120000000,5,250000,no,no,yes,113000000,0,no
+751,male,company,risky,yes,Hormozgan,annually,365,10000000000,5000000,25000000,5,250000,no,no,no,22505472,0,no
+752,male,person,low risk,no,Khuzestan,annually,365,4000000000,50000000,100000000,5,250000,yes,no,no,3751164,10,no
+753,male,person,low risk,no,Qom,annually,365,2000000000,50000000,100000000,50,250000,no,no,no,2264760,0,no
+754,male,person,low risk,no,Qom,annually,365,4000000000,50000000,100000000,5,250000,no,no,no,1944648,0,no
+755,male,company,low risk,no,Isfahan,annually,365,4000000000,10000000,20000000,5,250000,yes,no,no,9906624,0,yes
+756,male,person,low risk,no,Lorestan,annually,365,6000000000,20000000,60000000,10,500000,no,no,no,3585276,0,no
+757,male,company,moderate risk,no,Khuzestan,short term,48,4000000000,20000000,40000000,5,250000,yes,no,no,2247696,0,yes
+758,male,company,moderate risk,no,Hormozgan,annually,365,4000000000,5000000,10000000,5,250000,no,no,no,12512232,0,no
+759,male,company,risky,no,Ilam,short term,185,4000000000,10000000,20000000,5,250000,no,no,no,3231792,0,no
+760,male,person,low risk,yes,Tehran,annually,365,6000000000,50000000,150000000,5,250000,no,no,no,12407688,0,no
+761,male,company,risky,no,East Azarbaijan,annually,365,6000000000,20000000,60000000,0,0,yes,no,no,36735930,0,yes
+762,male,person,risky,yes,Tehran,annually,365,4000000000,40000000,80000000,5,250000,yes,no,no,4869720,0,yes
+763,male,person,moderate risk,no,Tehran,annually,365,4000000000,30000000,60000000,0,0,yes,no,no,5046624,0,yes
+764,male,person,risky,no,Razavi Khorasan,annually,365,4000000000,10000000,20000000,5,250000,no,no,no,3443581,0,no
+765,female,person,low risk,no,Semnan,annually,365,6000000000,20000000,40000000,5,250000,no,no,yes,5000400,0,no
+766,male,person,risky,no,Isfahan,annually,365,6000000000,10000000,30000000,5,250000,yes,no,no,7933464,0,yes
+767,male,person,risky,no,Isfahan,annually,365,4000000000,10000000,20000000,5,250000,yes,no,no,6473844,0,yes
+768,male,person,risky,no,Isfahan,annually,365,6000000000,10000000,30000000,5,250000,yes,no,no,13662000,0,yes
+769,male,company,low risk,no,Kerman,annually,365,2000000000,10000000,10000000,5,250000,yes,no,no,10990080,0,yes
+770,female,person,low risk,yes,Isfahan,annually,365,6000000000,20000000,60000000,5,25,yes,no,no,1183896,0,yes
+771,male,person,moderate risk,yes,Qazvin,annually,365,2000000000,40000000,40000000,5,250000,no,no,no,1384668,0,no
+772,male,company,risky,no,Semnan,annually,365,4000000000,50000000,200000000,5,250000,yes,no,no,46537200,7,no
+773,male,company,risky,no,Semnan,annually,365,2000000000,50000000,100000000,5,250000,yes,no,no,6022080,0,no
+774,male,company,moderate risk,no,Semnan,annually,365,2000000000,50000000,50000000,5,250000,yes,no,no,8029368,0,no
+775,male,person,risky,no,North Khorasan,daily,93,4000000000,50000000,100000000,5,250000,yes,no,no,2984040,0,yes
+776,female,person,low risk,yes,Isfahan,annually,365,6000000000,20000000,60000000,5,25,yes,no,no,1080000,0,yes
+777,male,person,moderate risk,no,Qom,annually,365,2000000000,20000000,60000000,5,250000,no,no,no,4399164,0,no
+778,male,company,risky,yes,Khuzestan,annually,365,4000000000,15000000,60000000,5,250000,no,no,no,31695408,0,no
+779,male,person,risky,no,Hormozgan,annually,365,4000000000,5000000,10000000,5,250000,no,no,no,6937056,0,no
+780,male,company,moderate risk,no,Hormozgan,annually,365,4000000000,20000000,40000000,5,250000,no,no,no,5328828,0,no
+781,male,company,risky,no,Isfahan,short term,89,4000000000,20000000,40000000,5,100000,no,no,no,4497228,0,no
+782,male,company,low risk,no,Semnan,annually,365,4000000000,20000000,40000000,0,0,yes,no,no,11421000,0,no
+783,male,person,low risk,no,Isfahan,annually,365,4000000000,10000000,20000000,5,250000,yes,no,no,4235760,0,yes
+784,male,company,low risk,no,Semnan,annually,365,4000000000,30000000,60000000,5,250000,no,no,no,7585381,0,no
+785,male,person,risky,no,Tehran,annually,365,2000000000,50000000,50000000,5,250000,yes,no,no,5764716,0,yes
+786,male,company,moderate risk,no,Gilan,daily,31,2000000000,20000000,60000000,5,250000,yes,no,no,1080000,0,yes
+787,male,person,low risk,no,Zanjan,daily,124,2000000000,20000000,20000000,0,0,no,no,no,1641168,0,no
+788,female,person,low risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,no,no,no,1371708,0,no
+789,male,person,risky,no,Hormozgan,annually,365,4000000000,5000000,10000000,5,250000,no,no,no,6937056,0,no
+790,male,person,risky,no,Lorestan,annually,365,4000000000,30000000,60000000,10,500000,no,no,no,6709716,0,no
+791,male,person,moderate risk,no,Qom,annually,365,4000000000,100000000,200000000,5,250000,no,no,no,2421468,0,no
+792,male,person,risky,no,Hormozgan,annually,365,4000000000,5000000,10000000,5,250000,no,no,no,6937056,0,no
+793,male,person,risky,no,Hormozgan,annually,365,2000000000,5000000,5000000,5,250000,no,no,no,2352024,0,no
+794,male,company,moderate risk,no,Qom,short term,39,10000000000,30000000,150000000,5,250000,no,no,no,2580661,0,no
+795,male,company,risky,yes,Markazi,annually,365,4000000000,20000000,40000000,10,500000,no,no,no,3548124,0,no
+796,male,company,moderate risk,no,Fars,annually,365,4000000000,30000000,60000000,5,250000,no,no,no,3699972,0,no
+797,male,person,low risk,no,Bushehr,annually,365,6000000000,20000000,60000000,5,250000,no,no,no,2581308,0,no
+798,male,person,moderate risk,no,Razavi Khorasan,annually,365,2000000000,10000000,10000000,5,250000,yes,no,no,2161621,0,yes
+799,male,person,risky,no,Bushehr,annually,365,14000000000,20000000,140000000,5,250000,no,no,no,8897581,0,no
+800,male,person,risky,no,Bushehr,annually,365,14000000000,20000000,140000000,5,250000,no,no,no,8897581,0,no
+801,female,company,low risk,yes,Markazi,short term,310,6000000000,20000000,60000000,10,500000,no,no,yes,28000000,0,no
+802,male,person,low risk,no,Kordestan,annually,365,4000000000,25000000,50000000,5,250000,yes,no,no,4294836,0,yes
+803,male,person,risky,no,Bushehr,annually,365,10000000000,20000000,100000000,5,250000,no,no,no,5059908,0,no
+804,male,company,low risk,no,Ardabil,annually,365,2000000000,30000000,90000000,5,250000,yes,no,no,1774008,0,yes
+805,male,company,low risk,no,Isfahan,short term,93,2000000000,20000000,20000000,5,250000,no,no,no,1080000,0,no
+806,male,person,low risk,no,Tehran,annually,365,6000000000,50000000,250000000,5,250000,no,no,no,5444064,0,no
+807,male,person,low risk,no,Mazandaran,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,3855924,0,yes
+808,male,person,risky,no,Isfahan,long term,366,8000000000,80000000,160000000,5,250000,yes,no,no,7244208,0,yes
+809,male,person,risky,no,Qazvin,daily,31,4000000000,40000000,80000000,5,250000,yes,no,no,1080000,0,yes
+810,male,company,low risk,no,Tehran,annually,365,4000000000,30000000,60000000,5,250000,yes,no,no,7604388,0,yes
+811,male,person,low risk,no,Hamedan,annually,365,6000000000,30000000,90000000,10,600000,yes,no,no,2518236,0,no
+812,male,person,risky,no,Hormozgan,annually,365,2000000000,20000000,20000000,5,250000,yes,no,no,3264084,0,yes
+813,female,person,low risk,no,Qom,annually,365,10000000000,50000000,250000000,5,250000,no,no,no,8576280,0,no
+814,female,company,low risk,no,East Azarbaijan,annually,365,4000000000,20000000,40000000,10,250000,no,no,no,4969080,0,no
+815,male,person,low risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,2114640,0,yes
+816,male,person,low risk,no,Khuzestan,annually,365,4000000000,20000000,40000000,5,250000,no,no,no,3164724,0,no
+817,male,company,low risk,no,Qom,annually,365,4000000000,100000000,200000000,5,250000,no,no,no,1080000,0,no
+818,female,company,low risk,yes,Khuzestan,annually,365,4000000000,30000000,90000000,5,250000,no,no,no,15415164,0,no
+819,male,person,risky,no,Semnan,annually,365,4000000000,50000000,100000000,5,250000,no,no,no,10092816,0,no
+820,male,person,moderate risk,yes,Qazvin,annually,365,4000000000,40000000,80000000,5,250000,no,no,no,2769444,0,no
+821,male,person,moderate risk,no,Alborz,annually,365,10000000000,50000000,100000000,5,250000,yes,no,no,13496760,0,yes
+822,male,person,low risk,no,Qom,annually,365,2000000000,50000000,100000000,5,250000,no,no,no,2534221,0,no
+823,male,person,low risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,1388016,0,yes
+824,male,person,risky,no,Isfahan,annually,365,6000000000,10000000,30000000,10,250000,no,no,no,13577436,0,no
+825,male,person,risky,no,Sistan and Baluchestan,annually,365,14000000000,0,0,5,250000,no,no,no,8402941,0,no
+826,male,person,moderate risk,no,Alborz,daily,93,2000000000,20000000,20000000,5,250000,no,no,no,1218024,0,no
+827,male,person,moderate risk,no,Qom,annually,365,2000000000,40000000,40000000,5,250000,no,no,no,1653156,0,no
+828,male,person,moderate risk,yes,Razavi Khorasan,annually,365,2000000000,10000000,10000000,5,250000,yes,no,no,4241484,0,yes
+829,male,person,moderate risk,no,Isfahan,annually,365,4000000000,30000000,60000000,5,250000,no,no,no,4939056,0,no
+830,male,person,low risk,no,Markazi,annually,365,2000000000,100000000,100000000,5,250000,no,no,no,1080000,0,no
+831,male,company,low risk,no,East Azarbaijan,daily,184,6000000000,50000000,150000000,0,0,no,no,no,13760496,0,no
+832,male,person,risky,no,Isfahan,short term,31,4000000000,20000000,40000000,0,0,no,no,no,1080000,0,no
+833,female,person,moderate risk,no,Isfahan,short term,31,6000000000,20000000,60000000,0,0,no,no,no,1158301,0,no
+834,male,person,moderate risk,no,Kerman,annually,365,6000000000,30000000,90000000,5,250000,no,no,no,1794204,0,no
+835,male,person,low risk,no,Qom,annually,365,2000000000,100000000,100000000,5,250000,no,no,no,2308501,0,no
+836,male,person,risky,no,Zanjan,short term,124,4000000000,40000000,80000000,5,250000,no,no,no,2988468,0,no
+837,male,person,risky,no,Hormozgan,annually,365,10000000000,0,0,5,250000,yes,no,no,6002101,0,yes
+838,male,company,risky,no,Isfahan,annually,365,4000000000,10000000,20000000,5,250000,no,no,no,6496308,0,no
+839,female,person,low risk,yes,Khuzestan,daily,31,2000000000,50000000,100000000,5,250000,no,no,no,1080000,0,no
+840,male,person,risky,no,Mazandaran,daily,31,4000000000,20000000,40000000,5,250000,no,no,no,1080000,0,no
+841,female,person,low risk,no,Semnan,annually,365,4000000000,20000000,40000000,5,250000,no,no,no,2046276,0,no
+842,male,company,risky,yes,Zanjan,daily,93,4000000000,30000000,60000000,5,250000,no,no,no,4724028,0,no
+843,male,person,risky,no,North Khorasan,annually,365,4000000000,50000000,100000000,5,250000,yes,yes,no,6702696,0,yes
+844,male,company,moderate risk,no,Tehran,annually,365,6000000000,30000000,90000000,5,250000,yes,no,no,9313272,0,yes
+845,male,person,moderate risk,no,South Khorasan,annually,365,6000000000,20000000,60000000,10,500000,yes,no,no,7076160,0,no
+846,female,person,low risk,no,Semnan,annually,365,2000000000,20000000,20000000,5,250000,no,no,no,2116800,0,no
+847,male,company,risky,no,Kerman,daily,93,2000000000,30000000,30000000,5,250000,no,no,no,1844640,0,no
+848,male,person,moderate risk,no,Mazandaran,daily,31,2000000000,50000000,50000000,5,250000,no,no,no,1080000,0,no
+849,male,person,low risk,no,Fars,annually,365,2000000000,30000000,30000000,5,250000,no,no,no,1080000,0,no
+850,male,person,low risk,no,Fars,short term,31,2000000000,30000000,30000000,5,250000,no,no,no,1080000,0,no
+851,male,person,risky,no,North Khorasan,annually,365,6000000000,50000000,150000000,5,250000,no,no,no,6741901,0,no
+852,male,person,risky,no,Khuzestan,annually,365,2000000000,50000000,50000000,5,250000,no,no,no,3606120,0,no
+853,male,person,low risk,no,Isfahan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,no,2413152,0,yes
+854,male,person,risky,no,Lorestan,annually,365,4000000000,50000000,100000000,10,500000,yes,no,no,6233328,0,yes
+855,male,person,moderate risk,no,Qom,annually,365,2000000000,50000000,100000000,5,250000,no,no,no,4694112,0,no
+856,male,company,risky,no,Khuzestan,daily,62,6000000000,40000000,80000000,5,250000,no,no,no,12444408,0,no
+857,male,person,moderate risk,no,Tehran,annually,365,4000000000,10000000,20000000,5,250000,yes,no,no,4269348,0,yes
+858,male,person,low risk,no,Razavi Khorasan,annually,365,4000000000,10000000,20000000,5,250000,yes,no,no,7994808,0,yes
+859,male,company,risky,no,Khuzestan,daily,61,6000000000,50000000,200000000,5,250000,no,no,no,16547976,0,no
+860,male,person,low risk,no,Sistan and Baluchestan,annually,365,4000000000,30000000,60000000,5,250000,no,no,no,2878956,0,no
+861,male,person,low risk,no,Qazvin,daily,31,2000000000,50000000,50000000,5,250000,no,no,no,1080000,0,no
+862,male,person,moderate risk,yes,Gilan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,no,3998916,0,no
+863,male,person,low risk,no,Tehran,annually,365,4000000000,30000000,60000000,5,250000,yes,no,no,4014360,0,yes
+864,male,person,moderate risk,no,Khuzestan,daily,124,4000000000,20000000,40000000,5,250000,no,no,no,1810296,0,no
+865,male,person,risky,no,Bushehr,annually,365,14000000000,20000000,160000000,5,250000,no,no,no,8007876,0,no
+866,male,person,risky,no,Bushehr,annually,365,10000000000,10000000,50000000,5,250000,no,no,no,5469336,0,no
+867,male,person,risky,no,Bushehr,annually,365,16000000000,20000000,160000000,5,250000,no,no,no,10207836,0,no
+868,male,person,risky,yes,Kermanshah,annually,365,12000000000,70000000,420000000,0,0,no,no,no,5172336,0,no
+869,male,person,risky,no,Tehran,daily,31,2000000000,50000000,50000000,5,1000000,no,no,no,1223964,10,no
+870,female,person,risky,no,Khuzestan,short term,364,20000000000,30000000,300000000,10,500000,no,no,no,47071261,0,no
+871,male,person,risky,no,Lorestan,daily,184,4000000000,50000000,100000000,10,500000,no,no,no,4241701,0,no
+872,male,person,low risk,no,Khuzestan,annually,365,2000000000,50000000,50000000,5,250000,no,no,no,2832732,10,no
+873,male,company,risky,no,Kermanshah,annually,365,16000000000,50000000,400000000,0,0,yes,no,no,27028728,0,yes
+874,male,company,risky,no,Kermanshah,annually,365,16000000000,50000000,400000000,0,0,yes,no,no,27028728,0,yes
+875,male,person,moderate risk,no,Tehran,daily,31,2000000000,20000000,20000000,20,500000,no,no,no,1080000,0,no
+876,male,person,risky,no,Hamedan,daily,61,6000000000,20000000,60000000,5,300000,no,no,no,2317032,15,no
+877,male,person,risky,no,Bushehr,annually,365,10000000000,10000000,50000000,5,250000,yes,no,no,4750920,0,no
+878,male,person,low risk,no,Qom,annually,365,4000000000,50000000,150000000,5,250000,no,no,no,2141101,0,no
+879,male,person,moderate risk,no,Zanjan,annually,365,2000000000,50000000,100000000,0,0,no,no,no,1979640,0,no
+880,male,person,moderate risk,no,Khuzestan,annually,365,6000000000,50000000,150000000,5,250000,yes,no,no,8066952,0,yes
+881,male,person,risky,yes,Zanjan,short term,31,4000000000,50000000,100000000,0,0,no,no,no,1773792,0,no
+882,male,person,risky,no,Tehran,short term,31,2000000000,50000000,50000000,5,250000,no,no,no,1080000,0,no
+883,male,company,moderate risk,yes,Isfahan,short term,93,4000000000,10000000,20000000,5,250000,yes,no,no,10303200,0,yes
+884,male,person,low risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,1143072,0,yes
+885,female,person,low risk,yes,Isfahan,annually,365,20000000000,20000000,200000000,5,250000,yes,no,no,3265920,0,yes
+886,male,company,moderate risk,yes,Yazd,annually,365,16000000000,50000000,1000000000,10,500000,no,no,no,128015748,5,no
+887,male,person,risky,no,Tehran,annually,365,10000000000,50000000,250000000,5,250000,no,no,no,49448556,0,no
+888,male,person,moderate risk,no,Qom,annually,365,2000000000,20000000,60000000,5,250000,no,no,no,3800736,0,no
+889,male,company,moderate risk,no,Isfahan,annually,365,10000000000,20000000,100000000,5,250000,yes,no,no,28560708,0,yes
+890,male,person,low risk,no,Qom,short term,2,4000000000,50000000,250000000,5,250000,no,no,no,3467341,0,no
+891,male,company,moderate risk,no,Gilan,daily,31,2000000000,30000000,60000000,5,250000,no,no,no,1080000,0,no
+892,male,person,moderate risk,no,Tehran,annually,365,2000000000,50000000,50000000,5,250000,yes,no,no,5404428,0,yes
+893,male,person,low risk,no,Qom,annually,365,2000000000,50000000,50000000,5,250000,no,no,no,1990224,0,no
+894,male,person,low risk,no,Tehran,annually,365,6000000000,50000000,150000000,5,250000,yes,no,no,6117012,0,yes
+895,male,person,risky,no,Isfahan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,no,14423832,0,yes
+896,male,person,risky,no,North Khorasan,daily,184,6000000000,50000000,150000000,5,250000,yes,no,no,4478868,0,yes
+897,male,person,moderate risk,no,Qom,short term,32,2000000000,50000000,100000000,5,250000,no,no,no,2058804,0,no
+898,male,person,low risk,no,Mazandaran,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,2161188,0,yes
+899,male,person,moderate risk,no,Kerman,annually,365,4000000000,10000000,30000000,5,250000,yes,no,no,9932868,0,yes
+900,male,person,risky,no,Qom,annually,365,2000000000,20000000,40000000,5,250000,yes,no,no,6787908,0,yes
+901,male,person,moderate risk,no,East Azarbaijan,short term,93,2000000000,20000000,20000000,10,250000,no,no,no,3973968,0,no
+902,male,company,moderate risk,no,Tehran,annually,365,6000000000,40000000,120000000,5,250000,no,no,no,12677505,0,no
+903,male,person,low risk,no,Isfahan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,no,6416172,0,yes
+904,male,person,moderate risk,no,Qom,annually,365,2000000000,100000000,200000000,5,250000,no,no,no,4835808,0,no
+905,male,company,moderate risk,yes,Mazandaran,annually,365,6000000000,20000000,60000000,5,250000,no,no,no,3725568,0,no
+906,male,person,moderate risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,no,no,no,3833676,0,no
+907,female,company,low risk,no,Isfahan,daily,31,4000000000,20000000,40000000,0,0,yes,no,no,2806272,0,yes
+908,male,person,risky,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,yes,no,18553644,0,yes
+909,male,person,low risk,no,Kermanshah,annually,365,4000000000,40000000,80000000,5,250000,yes,no,no,6020461,0,yes
+910,male,person,risky,no,Isfahan,annually,365,4000000000,10000000,20000000,5,150000,yes,no,no,4162752,0,yes
+911,female,person,moderate risk,yes,Zanjan,daily,40,4000000000,30000000,60000000,0,0,no,no,no,1080000,0,no
+912,female,company,moderate risk,yes,Bushehr,annually,365,16000000000,40000000,320000000,5,250000,no,no,no,19321308,0,no
+913,female,company,moderate risk,yes,Khuzestan,annually,365,10000000000,40000000,200000000,5,250000,no,no,no,14636268,0,no
+914,male,person,risky,yes,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,yes,no,11515176,0,yes
+915,male,person,risky,no,Bushehr,annually,365,14000000000,10000000,70000000,5,250000,no,no,no,8859024,0,no
+916,male,person,risky,no,Bushehr,annually,365,10000000000,30000000,150000000,5,250000,yes,no,no,10350181,0,no
+917,male,person,risky,no,Isfahan,annually,365,4000000000,20000000,40000000,10,250000,yes,no,no,7060608,0,yes
+918,male,person,risky,no,Hormozgan,annually,365,4000000000,5000000,10000000,5,250000,no,no,no,6937056,0,no
+919,male,person,risky,no,Bushehr,annually,365,14000000000,20000000,140000000,5,250000,no,no,no,8563536,0,no
+920,female,company,low risk,yes,Qazvin,annually,365,4000000000,30000000,60000000,0,0,no,no,yes,2079999,0,no
+921,male,person,moderate risk,no,Razavi Khorasan,daily,183,4000000000,10000000,20000000,5,250000,no,no,no,6598261,0,no
+922,female,person,risky,no,Bushehr,annually,365,14000000000,20000000,140000000,5,250000,no,no,no,8563536,0,no
+923,male,company,moderate risk,no,Semnan,annually,365,8000000000,50000000,200000000,5,250000,no,no,no,10230732,0,no
+924,male,person,moderate risk,no,Alborz,annually,365,4000000000,50000000,100000000,5,250000,yes,no,no,5226228,0,yes
+925,male,person,risky,no,Bushehr,annually,365,12000000000,10000000,60000000,10,250000,no,no,no,12575628,0,no
+926,male,company,low risk,no,Isfahan,annually,365,6000000000,10000000,30000000,5,250000,yes,no,no,9898848,0,yes
+927,male,person,low risk,no,Isfahan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,no,1661581,0,yes
+928,male,person,moderate risk,no,Khuzestan,annually,365,4000000000,5000000,10000000,5,250000,yes,no,no,8826948,0,yes
+929,male,company,risky,no,Isfahan,daily,13,7500000000,20000000,100000000,5,250000,yes,no,no,1984716,0,yes
+930,male,person,low risk,no,Khuzestan,annually,365,4000000000,5000000,10000000,5,250000,yes,no,no,4749301,0,yes
+931,male,person,moderate risk,no,Hamedan,annually,365,8000000000,20000000,80000000,0,0,yes,no,no,13868712,15,yes
+932,male,company,risky,no,Tehran,daily,183,16000000000,50000000,450000000,5,250000,yes,no,no,67486251,0,yes
+933,male,company,risky,no,Kerman,annually,365,4000000000,20000000,40000000,5,250000,no,no,no,8571096,0,no
+934,male,person,moderate risk,no,Hormozgan,annually,365,2000000000,5000000,5000000,5,250000,no,no,no,2484324,0,no
+935,male,person,low risk,no,Semnan,annually,365,2000000000,20000000,20000000,5,250000,yes,no,no,2102112,0,yes
+936,male,company,moderate risk,yes,Khuzestan,annually,365,4000000000,30000000,60000000,0,0,no,no,no,7477596,0,no
+937,male,person,low risk,no,Tehran,annually,365,6000000000,100000000,300000000,5,250000,yes,no,no,15703741,0,yes
+938,male,person,risky,no,Hormozgan,annually,365,4000000000,5000000,10000000,5,250000,no,no,no,6937056,0,no
+939,male,person,moderate risk,no,Isfahan,annually,365,4000000000,10000000,20000000,5,250000,yes,no,no,4579200,0,yes
+940,male,company,low risk,no,Mazandaran,annually,365,6000000000,50000000,150000000,5,250000,yes,no,no,3503952,0,yes
+941,male,person,risky,no,Hormozgan,annually,365,18000000000,0,0,0,0,yes,no,no,11372400,0,yes
+942,male,person,risky,no,Isfahan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,no,19999981,0,yes
+943,male,person,low risk,no,Isfahan,annually,365,6000000000,10000000,30000000,5,250000,yes,no,no,4840560,0,yes
+944,male,person,risky,no,Isfahan,annually,365,2000000000,10000000,20000000,5,250000,no,no,no,2265301,0,no
+945,male,person,moderate risk,no,Tehran,annually,365,6000000000,30000000,60000000,5,250000,no,no,no,7367652,0,no
+946,male,person,risky,no,Isfahan,annually,365,2000000000,10000000,20000000,5,250000,no,no,no,2265301,0,no
+947,male,person,risky,no,Qom,annually,365,4000000000,20000000,20000000,5,250000,no,no,yes,4000000,0,no
+948,male,person,risky,no,Isfahan,annually,365,4000000000,10000000,20000000,5,250000,no,no,no,3485052,0,no
+949,male,company,low risk,yes,Isfahan,annually,365,4000000000,30000000,60000000,5,250000,yes,no,no,4358448,0,yes
+950,male,company,moderate risk,no,Isfahan,annually,365,6000000000,20000000,100000000,5,250000,yes,no,no,60027480,0,yes
+951,male,person,risky,no,Lorestan,annually,365,4000000000,20000000,40000000,0,0,no,no,no,2225664,0,no
+952,male,company,moderate risk,no,Qom,short term,31,4000000000,50000000,100000000,5,250000,no,no,no,2761560,0,no
+953,male,person,risky,yes,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,3385800,0,yes
+954,male,person,risky,yes,Golestan,annually,365,2000000000,20000000,20000000,5,250000,yes,no,no,1231741,0,no
+955,male,person,risky,no,Isfahan,annually,365,2000000000,10000000,10000000,5,250000,yes,no,no,9066600,0,yes
+956,male,person,risky,no,Isfahan,annually,365,4000000000,20000000,40000000,25000,0,no,no,no,3692088,0,no
+957,male,person,moderate risk,yes,Khuzestan,daily,62,4000000000,40000000,160000000,0,0,no,no,no,9449568,0,no
+958,male,person,moderate risk,no,Lorestan,short term,364,4000000000,20000000,40000000,10,500000,no,no,no,2003076,0,no
+959,male,company,risky,no,Mazandaran,annually,365,4000000000,50000000,100000000,5,250000,yes,no,no,13100724,0,yes
+960,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,no,no,no,3790800,0,no
+961,male,person,risky,no,Semnan,short term,182,2000000000,50000000,50000000,5,250000,yes,no,no,3089448,0,yes
+962,male,person,moderate risk,no,Mazandaran,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,3454596,0,yes
+963,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,no,no,no,3790800,0,no
+964,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,no,no,no,3790800,0,no
+965,male,person,moderate risk,no,Lorestan,annually,365,4000000000,10000000,20000000,0,0,no,no,no,2344032,0,no
+966,male,person,risky,no,Hormozgan,annually,365,10000000000,0,0,0,0,yes,no,no,6318000,0,no
+967,male,company,moderate risk,no,Kordestan,short term,364,2000000000,2000000,2000000,5,250000,yes,no,no,2196828,0,yes
+968,male,person,moderate risk,no,Semnan,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,4541292,0,yes
+969,male,person,low risk,no,Kermanshah,short term,92,6000000000,20000000,60000000,5,250000,no,no,no,2411640,0,no
+970,male,company,risky,no,Bushehr,annually,365,14000000000,20000000,140000000,10,250000,no,no,no,18483228,0,no
+971,male,person,moderate risk,yes,Semnan,annually,365,4000000000,10000000,20000000,5,250000,yes,no,no,4883328,0,yes
+972,male,person,low risk,no,Semnan,annually,365,2000000000,50000000,50000000,5,250000,no,no,no,2155572,0,no
+973,male,person,risky,no,Isfahan,annually,365,4000000000,40000000,40000000,5,250000,yes,no,no,6449760,0,yes
+974,male,person,low risk,no,Kermanshah,annually,365,2000000000,30000000,30000000,5,250000,no,no,no,1787941,0,no
+975,male,company,risky,no,Gilan,daily,92,2000000000,30000000,30000000,5,250000,no,no,no,5496444,0,no
+976,male,person,moderate risk,yes,Mazandaran,annually,365,4000000000,10000000,20000000,5,250000,no,no,no,3702240,0,no
+977,male,person,moderate risk,no,Yazd,annually,365,4000000000,30000000,60000000,10,500000,yes,no,no,10954440,0,no
+978,male,person,moderate risk,no,Yazd,annually,365,4000000000,20000000,40000000,10,500000,yes,no,no,8794548,0,yes
+979,male,person,moderate risk,no,Lorestan,annually,365,2000000000,20000000,20000000,0,0,no,no,no,4272480,0,no
+980,male,person,risky,no,Bushehr,annually,365,14000000000,10000000,70000000,5,250000,no,no,no,8053668,0,no
+981,female,company,low risk,no,Fars,daily,30,4000000000,30000000,60000000,5,250000,no,no,no,1080000,0,no
+982,male,company,risky,no,Tehran,short term,30,4000000000,20000000,40000000,5,100000,no,no,no,2248668,0,yes
+983,male,person,risky,no,Bushehr,annually,365,14000000000,10000000,70000000,5,250000,no,no,no,8053668,0,no
+984,male,person,risky,no,Bushehr,annually,365,10000000000,20000000,100000000,10,250000,no,no,no,6660901,0,no
+985,male,person,risky,no,Mazandaran,annually,365,2000000000,10000000,10000000,5,250000,no,no,no,2468232,0,no
+986,male,person,risky,no,Markazi,daily,31,2000000000,30000000,30000000,10,500000,no,no,no,1080000,0,no
+987,male,person,risky,no,Bushehr,annually,365,14000000000,20000000,140000000,10,250000,no,no,no,8484804,0,no
+988,male,person,moderate risk,no,Tehran,short term,92,6000000000,30000000,90000000,5,250000,no,no,no,5311872,0,no
+989,male,person,moderate risk,no,Razavi Khorasan,daily,182,4000000000,10000000,20000000,5,250000,no,no,no,10856592,0,no
+990,male,person,risky,no,Bushehr,annually,365,14000000000,10000000,70000000,5,250000,no,no,no,8053668,0,no
+991,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,no,no,no,3790800,0,no
+992,male,person,low risk,no,Fars,short term,31,2000000000,30000000,30000000,5,250000,no,no,no,1080000,0,no
+993,male,person,moderate risk,no,Mazandaran,annually,365,8000000000,50000000,200000000,5,250000,yes,no,no,4995972,0,yes
+994,female,person,low risk,no,Isfahan,annually,365,10000000000,20000000,100000000,5,250000,yes,no,no,4994676,0,yes
+995,male,person,moderate risk,no,Kordestan,annually,365,2000000000,50000000,50000000,5,25000,yes,no,yes,2451600,0,yes
+996,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,no,no,no,3790800,0,no
+997,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,no,no,no,3790800,0,no
+998,male,person,risky,no,Bushehr,annually,365,12000000000,30000000,180000000,10,250000,yes,no,no,16346341,0,no
+999,male,person,low risk,no,Mazandaran,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,2612736,0,yes
+1000,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,yes,no,no,3790800,0,yes
+1001,male,person,low risk,yes,Semnan,annually,365,4000000000,50000000,100000000,5,250000,yes,no,no,4921884,0,yes
+1002,male,person,low risk,no,Semnan,annually,365,6000000000,50000000,150000000,5,250000,yes,no,no,6351372,0,yes
+1003,male,person,risky,no,Markazi,annually,365,2000000000,50000000,50000000,10,500000,no,no,no,8475516,0,no
+1004,male,person,risky,no,Hormozgan,annually,365,6000000000,0,0,0,0,no,no,no,3790800,0,no
+1005,male,person,moderate risk,yes,Semnan,annually,365,2000000000,50000000,50000000,5,250000,yes,yes,no,7064388,0,yes
+1006,male,person,moderate risk,no,Qazvin,short term,61,4000000000,40000000,80000000,5,250000,no,no,no,3409884,0,no
+1007,male,person,low risk,no,West Azerbaijan,annually,365,6000000000,100000000,300000000,5,250000,no,no,no,2969892,0,no
+1008,male,person,moderate risk,yes,Khuzestan,annually,365,2000000000,20000000,20000000,5,250000,yes,no,no,3079188,20,yes
+1009,male,person,risky,no,Kermanshah,short term,61,2000000000,10000000,10000000,5,250000,no,no,no,1757160,0,no
+1010,male,person,risky,no,Kermanshah,annually,365,4000000000,40000000,80000000,5,250000,no,no,no,6576228,0,no
+1011,male,company,moderate risk,no,Kordestan,annually,365,4000000000,50000000,100000000,5,250000,yes,no,no,11589588,0,yes
+1012,male,person,risky,no,North Khorasan,daily,151,4000000000,50000000,100000000,5,250000,no,no,no,5638680,0,no
+1013,male,company,moderate risk,no,Kermanshah,annually,365,6000000000,50000000,150000000,5,250000,no,no,no,17816760,0,no
+1014,male,company,low risk,no,Kermanshah,annually,365,6000000000,50000000,150000000,5,250000,no,no,no,6820524,0,no
+1015,male,person,low risk,no,Kohgiluyeh and Boyer-Ahmad,annually,365,2000000000,30000000,30000000,5,250000,no,no,no,2166480,0,no
+1016,male,person,low risk,yes,Semnan,annually,365,4000000000,20000000,40000000,5,250000,no,no,no,4294836,0,no
+1017,male,person,moderate risk,no,Semnan,annually,365,8000000000,50000000,200000000,5,250000,yes,no,no,10770192,0,yes
+1018,male,person,low risk,no,Kermanshah,annually,365,4000000000,50000000,100000000,5,250000,no,no,no,3414852,0,no
+1019,male,person,moderate risk,no,Hormozgan,short term,61,2000000000,10000000,10000000,5,250000,no,no,no,1606068,0,no
+1020,male,person,risky,no,Lorestan,daily,91,4000000000,50000000,100000000,5,500000,no,no,no,1380348,0,no
+1021,male,company,risky,no,Kerman,short term,93,2000000000,30000000,30000000,5,250000,yes,no,no,1763532,0,yes
+1022,male,person,risky,no,Tehran,daily,31,4000000000,50000000,100000000,0,0,no,no,no,2984472,0,no
+1023,female,person,moderate risk,no,East Azarbaijan,short term,61,2000000000,20000000,20000000,10,250000,no,no,no,2980476,0,no
+1024,male,company,low risk,no,Hormozgan,annually,365,6000000000,10000000,30000000,5,250000,yes,no,no,7128972,0,yes
+1025,male,person,risky,no,Bushehr,annually,365,12000000000,30000000,180000000,10,250000,no,no,no,13781124,0,no
+1026,male,person,moderate risk,no,Semnan,annually,365,8000000000,50000000,200000000,5,250000,yes,no,no,12182508,0,yes
+1027,male,person,moderate risk,no,Kermanshah,short term,30,4000000000,10000000,20000000,5,250000,no,no,no,1540296,0,no
+1028,male,person,low risk,no,Tehran,daily,30,4000000000,40000000,80000000,5,250000,no,no,no,1080000,0,no
+1029,male,person,low risk,no,Tehran,daily,30,4000000000,40000000,80000000,5,250000,no,no,no,1080000,0,no
+1030,male,person,low risk,no,Tehran,daily,30,4000000000,40000000,80000000,5,250000,no,no,no,1080000,0,no
+1031,male,person,low risk,no,Tehran,daily,30,4000000000,40000000,80000000,5,250000,no,no,no,1080000,0,no
+1032,male,person,low risk,no,Tehran,daily,30,4000000000,40000000,80000000,5,250000,no,no,no,1080000,0,no
+1033,male,company,low risk,yes,Kordestan,daily,257,10000000000,50000000,250000000,5,250000,no,no,yes,3499200,0,no
+1034,male,person,moderate risk,no,Hormozgan,annually,365,2000000000,20000000,20000000,5,250000,yes,no,no,1752732,0,yes
+1035,male,company,low risk,yes,Kermanshah,annually,365,10000000000,50000000,250000000,5,250000,no,no,no,8056584,0,no
+1036,male,person,moderate risk,no,Markazi,daily,90,6000000000,20000000,60000000,10,500000,yes,no,no,1731888,0,yes
+1037,male,person,moderate risk,no,Kermanshah,short term,30,2000000000,30000000,30000000,5,250000,no,no,no,1391688,0,no
+1038,male,person,low risk,no,Tehran,annually,365,8000000000,30000000,90000000,5,250000,no,no,no,8767872,0,no
+1039,male,person,risky,no,Bushehr,annually,365,6000000000,10000000,30000000,10,250000,no,no,no,4836781,0,no
+1040,male,person,moderate risk,no,Kermanshah,short term,30,4000000000,50000000,100000000,5,250000,no,no,no,1583712,0,no
+1041,male,company,risky,yes,Semnan,annually,365,4000000000,70000000,140000000,0,0,yes,no,no,10999800,0,yes
+1042,female,person,low risk,no,Isfahan,annually,365,6000000000,20000000,60000000,5,250000,yes,no,no,1857492,0,yes
+1043,female,company,low risk,no,Razavi Khorasan,annually,365,10000000000,10000000,50000000,5,250000,yes,no,no,6000264,22.7,yes
+1044,male,person,low risk,no,Lorestan,annually,365,4000000000,30000000,60000000,10,500000,yes,no,no,6668352,0,yes
+1045,male,person,low risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,1657476,0,yes
+1046,male,person,moderate risk,no,Kermanshah,short term,30,2000000000,10000000,10000000,5,250000,no,no,no,1528524,15,no
+1047,male,company,low risk,no,Mazandaran,annually,365,2000000000,10000000,10000000,5,250000,no,no,no,1332504,0,no
+1048,male,person,risky,no,Tehran,daily,108,4000000000,20000000,40000000,5,250000,no,no,yes,1782324,0,no
+1049,female,person,low risk,no,Isfahan,annually,365,4000000000,20000000,40000000,5,250000,yes,no,no,1714608,0,yes
+1050,male,company,risky,no,Semnan,annually,365,4000000000,100000000,200000000,0,0,yes,no,no,6710796,0,yes
+1051,male,company,moderate risk,no,Semnan,annually,365,4000000000,100000000,200000000,0,0,yes,no,no,6577632,0,yes
+1052,male,person,low risk,yes,Semnan,annually,365,2000000000,70000000,70000000,0,0,no,no,no,3077568,0,no
+1053,male,person,moderate risk,no,Tehran,annually,365,6000000000,30000000,90000000,5,250000,no,no,no,4315572,0,yes
